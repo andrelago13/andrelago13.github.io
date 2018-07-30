@@ -8,7 +8,27 @@ This is my personal website, which is aimed towards displaying my professional a
 
 You can reach me though my [email](mailto:andrelago1995@gmail.com) or check out my profiles at [LinkedIn](https://www.linkedin.com/in/andre-lago/) and [GitHub](https://github.com/andrelago13).
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Work experience
+
+## Google – Software Engineering Intern (Mountain View, USA) – 2017
+
+![Google](/assets/google.png)
+
+After my first internship at Google, I was again selected for a Software Engineering internship at Google, this time in Mountain View, California, the company’s headquarters.
+
+For this internship I was a part of the People Team, mainly working on the way contacts are uploaded from Android devices. I worked on Android Google Play Services modules that perform that upload to improve the way it is made, and also make them more reliable. I also got to work on server side solutions related to this, by developing an RPC service from scratch that performs deletion of user device contacts, and will soon receive traffic from all Android users.
+
+## Google – Software Engineering Intern (London, UK) – 2016
+
+![Google](/assets/google.png)
+
+During the summer of 2016 I was a Software Engineering Intern at Google, London.
+
+For a little over 3 months I worked on the Android for Work team, on projects related to Android media and cross-user content access.
+
+Working on Android was very exciting for a lot of different reasons. First, it is a billion-user product, so knowing that my code would end up in the hands of so many people was thrilling. Also, I also loved the Android OS and its development environment, so being able to improve a product that I already loved made me even more passionate about the impact I made. Finally, knowing that my code had to be bullet-proof to security exploits made me have to focus on security a lot more, and think very well about how to implement features before actually coding them.
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -126,4 +146,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
