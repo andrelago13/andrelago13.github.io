@@ -10,10 +10,18 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="icon" href="/assets/favicon.png" sizes="32x32" />
   </head>
+
+  <style>
+    #page-header {
+      background-image: url(/assets/feup.png);
+      background-size: cover;
+      background-position: center;
+    }
+  </style>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
+    <header class="page-header" id="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
