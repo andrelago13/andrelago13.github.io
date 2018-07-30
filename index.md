@@ -28,6 +28,35 @@ For a little over 3 months I worked on the Android for Work team, on projects re
 
 Working on Android was very exciting for a lot of different reasons. First, it is a billion-user product, so knowing that my code would end up in the hands of so many people was thrilling. Also, I also loved the Android OS and its development environment, so being able to improve a product that I already loved made me even more passionate about the impact I made. Finally, knowing that my code had to be bullet-proof to security exploits made me have to focus on security a lot more, and think very well about how to implement features before actually coding them.
 
+## University of Porto – Teaching Assistant – 2015 to 2018
+
+![FEUP](/assets/feup.png)
+
+Since 2015 I have been a teaching assistant in several courses of the Faculty of Engineering of the University of Porto, ranging from computer graphics to low-level peripheral driver development.
+
+As a teaching assistant my job is to be present in the practical classes of the courses, helping other students by answering their questions withoud handing them the answers. They have to learn by doing!
+
+# Education
+
+## FEUP - Integrated Master's (BsC + MsC) in Informatics and Computing Engineering - 2013 to 2018
+
+Average Grade: 18/20 points
+
+Thesis Grade: 19/20 points
+
+Throughout the Master's I have studied many different fields of software engineering, some of which particularly caught my interest. The main subjects I learned were distributed systems, mobile applications, software development methodologies, project management, software architecture and artificial intelligence.
+
+Other subjects included operating systems, networks or web development.
+
+My thesis dissertation project consisted on the development of a conversational assistant for the management of IoT smart spaces that is capable of performing more complex tasks than those of equivalent tools such as the Google Assistant or Amazon Alexa. That project's code, as well as a scientific paper written about its results, can be found [here](https://github.com/andrelago13/jarvis).
+
+Main languages learned on the Master's: Java, C++, Javascript, C#, C.
+
+
+
+
+
+
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
