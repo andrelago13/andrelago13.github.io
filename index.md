@@ -6,7 +6,7 @@ Hello! My name is André Lago. I just finished my Master's in Informatics and Co
 
 This is my personal website, which is aimed towards displaying my professional and academic experience as well as my most important projects. The website also includes a blog which I use to share thoughts and experiences around what I do in my career.
 
-You can reach me at [mailto:andrelago1995@gmail.com](andrelago1995@gmail.com), or check out my [LinkedIn](https://www.linkedin.com/in/andre-lago/) or [GitHub](https://github.com/andrelago13) profiles.
+You can reach me though my [email](mailto:andrelago1995@gmail.com) or check out my profiles at [LinkedIn](https://www.linkedin.com/in/andre-lago/) and [GitHub](https://github.com/andrelago13).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
