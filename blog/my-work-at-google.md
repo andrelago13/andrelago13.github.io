@@ -45,3 +45,7 @@ Another interesting aspect was the fact that this feature required some UI work.
 Overall I really enjoyed working on this feature, and I was really lucky to have such an interesting project as an intern, a project that I can show people how to use, and a feature that eventually may be used by thousands or millions of people world-wide.
 
 Stay tuned to learn about the other features I developed during the internship 🙂
+
+### April 5, 2017
+### Tags: Work Experience
+### [<- Previous post](/blog/applying-for-google) | [Next post ->](/blog/tales-of-a-ceo)

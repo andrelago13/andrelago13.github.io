@@ -48,3 +48,7 @@ Keep in mind that getting to host matching doesn’t guarantee you a position (a
 If you get through all this stages, then you get to experience what was for me one of the best experiences of my life: working at Google!
 
 I’ll write about the internship experience soon, but I end this post by highly recommending applying for big tech companies, because it doesn’t hurt trying and if you do get it, I almost guarantee you will never forget it!
+
+### November 29, 2016
+### Tags: Work Experience
+### [<- Previous post](/blog/first-blog-post) | [Next post ->](/blog/my-work-at-google)

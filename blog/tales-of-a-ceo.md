@@ -7,7 +7,7 @@ layout: blogpost
 # Tales of a "CEO"
 
 ### June 25, 2017
-### Tags: Miscelaneous
+### Tags: Work Experience
 ### [<- Previous post](/blog/my-work-at-google) | [Next post ->](/blog/managing-a-tech-conference)
 
 ![Devenire](/assets/images/devenire.png)
@@ -71,3 +71,7 @@ I guess the biggest lesson I learned from being a CEO is the one I can’t reall
 With this experience I improved my gut feeling. I learned some things that work, and some that don’t, and most of all learned how to better lead a group of people into working together for a common goal. Obviously this doesn’t mean I could be a good CEO now because I don’t think I could, not yet…
 
 …but it brought me much closer to that.
+
+### June 25, 2017
+### Tags: Work Experience
+### [<- Previous post](/blog/my-work-at-google) | [Next post ->](/blog/managing-a-tech-conference)

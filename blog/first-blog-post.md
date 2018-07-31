@@ -27,3 +27,7 @@ Finally, I should tell you about the sport of my life: basketball. I’ve played
 That’s pretty much it 🙂 I hope that by making this blog I can inspire other people to do what I have always tried to do – follow their dreams – because that, I believe, is the true purpose of living.
 
 Enjoy!
+
+### November 22, 2016
+### Tags: Miscelaneous
+### [Next post ->](/blog/applying-for-google)
