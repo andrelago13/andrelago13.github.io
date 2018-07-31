@@ -16,6 +16,29 @@ These are some of the projects I developed on my own or for my degree. There are
 
 # Academic Projects
 
+## Jarvis - Smart Space Management Conversational Assistant
+
+* As my thesis dissertation project, I developed a conversational assistant for the management of IoT smart spaces, **Jarvis**,  that is capable of performing more complex tasks than those of equivalent tools such as the Google Assistant or Amazon Alexa. That project's code, as well as a scientific paper written about its results, can be found [here](https://github.com/andrelago13/jarvis).
+* The project used Google's [Dialogflow](https://dialogflow.com/) to create the assistant interface and a JavaEE backend to perform the management tasks. Below are some samples of the supported queries:
+    * "Turn on the light"
+    * "Turn on the light in 5 minutes"
+    * "Turn on the light everyday at 9am"
+    * "Turn on the light everyday from 9am to 10am"
+    * Edition of rules:
+        * User: "What rules are defined for the light?"
+        * Jarvis: "You told me to turn on the light everyday at 9am"
+        * User: "Change that to 8am"
+    * "Why did the light turn on?"
+* **Technologies**: Java, Python, Dialogflow, [GitHub](https://github.com/andrelago13/jarvis).
+
+## Highly-scalable IoT data simulator and collector (3 people team project)
+
+* As part of the course of "Cloud and Service Oriented Computing" we developed a set of 2 highly scalable tools.
+* One one hand, there was a Docker-ized application that would produce simulated data that represented a temperature or humidity sensor's values throughout a day (using a simple sinusoidal function). This application could then be scaled using Docker Swarm in order to create a huge ammount of constantly flowing data that should be analyzed.
+* On the other hand, there was a Function-as-a-Service system that would collect such data, storing it in a MongoDB database and making statistical analysis of the data in order to produce an informative NodeJS dashboard.
+* The goal of the project was to understand how such cloud-oriented scalable services work, which was possible both due to the use of Docker Swarm (which easily creates replicas of an application to possibly run on multiple machines) and FaaS techniques (which are called upon request, avoiding the need to have a single always-running server).
+* **Technologies**: Java, Docker Swarm, MongoDB, GitLab.
+
 ## Public transport route optimizer (3 people team project)
 
 ![CAL](/assets/images/cal.jpg)

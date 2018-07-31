@@ -8,7 +8,9 @@ Hello! My name is André Lago. I just finished my Master's in Informatics and Co
 
 This is my personal website, which is aimed towards displaying my professional and academic experience as well as my most important projects. The website also includes a blog which I use to share thoughts and experiences around what I do in my career.
 
-You can reach me though my [email](mailto:andrelago1995@gmail.com) or check out my profiles at [LinkedIn](https://www.linkedin.com/in/andre-lago/) and [GitHub](https://github.com/andrelago13).
+You can reach me by [email](mailto:andrelago1995@gmail.com) or check out my profiles at [LinkedIn](https://www.linkedin.com/in/andre-lago/) and [GitHub](https://github.com/andrelago13).
+
+---
 
 # Work experience
 
@@ -16,9 +18,9 @@ You can reach me though my [email](mailto:andrelago1995@gmail.com) or check out 
 
 ![Google](/assets/images/google.png)
 
-After my first internship at Google, I was again selected for a Software Engineering internship at Google, this time in Mountain View, California, the company’s headquarters.
+After my first internship at Google, I was offered a second Software Engineering internship, this time in Mountain View, California, in the company’s headquarters.
 
-For this internship I was a part of the People Team, mainly working on the way contacts are uploaded from Android devices. I worked on Android Google Play Services modules that perform that upload to improve the way it is made, and also make them more reliable. I also got to work on server side solutions related to this, by developing an RPC service from scratch that performs deletion of user device contacts, and will soon receive traffic from all Android users.
+For this internship I was a part of the People Team, mainly working on the way contacts are uploaded from Android devices. I worked on Android Google Play Services modules that perform the contact uploads to improve the way they are made, and also make them more reliable. I also got to work on server side solutions related to this, by developing an RPC service from scratch that performs deletion of user device contacts, and will soon receive traffic from all Android users.
 
 ## Google – Software Engineering Intern (London, UK) – 2016
 
@@ -26,7 +28,7 @@ For this internship I was a part of the People Team, mainly working on the way c
 
 During the summer of 2016 I was a Software Engineering Intern at Google, London.
 
-For a little over 3 months I worked on the Android for Work team, on projects related to Android media and cross-user content access.
+For a little over 3 months I worked on the Android for Work team, on projects related to Android media and cross-user content access. I also got to work on public features released on Android O, particularly the ability for users to add custom ringtones from any audio file. This feature was reported in [an article by Android Police](http://www.androidpolice.com/2017/03/23/android-o-feature-spotlight-easily-add-custom-ringtones-alarm-sounds-notification-sounds/) and my commits can be seen under the public [AOSP GitHub mirror repository](https://github.com/aosp-mirror/platform_frameworks_base/commits/master/media/java/android/media/RingtoneManager.java). I also talked about the work done during this internship [in one of my blog posts](/blog/my-work-at-google).
 
 Working on Android was very exciting for a lot of different reasons. First, it is a billion-user product, so knowing that my code would end up in the hands of so many people was thrilling. Also, I also loved the Android OS and its development environment, so being able to improve a product that I already loved made me even more passionate about the impact I made. Finally, knowing that my code had to be bullet-proof to security exploits made me have to focus on security a lot more, and think very well about how to implement features before actually coding them.
 
@@ -34,9 +36,11 @@ Working on Android was very exciting for a lot of different reasons. First, it i
 
 ![FEUP](/assets/images/feup.png)
 
-Since 2015 I have been a teaching assistant in several courses of the Faculty of Engineering of the University of Porto, ranging from computer graphics to low-level peripheral driver development.
+Since 2015 I have been a teaching assistant in several courses of the Faculty of Engineering of the University of Porto, ranging from computer graphics or project management to low-level peripheral driver development. Specifically, I was a TA in the subjects of [Computer Laboratory](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399888), [Graphical Computation](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399891), [Laboratory of Graphical Interface Applications](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399899), [Programming](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399883) and [Software Development Laboratory](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=399910).
 
 As a teaching assistant my job is to be present in the practical classes of the courses, helping other students by answering their questions withoud handing them the answers. They have to learn by doing!
+
+---
 
 # Education
 
@@ -54,7 +58,9 @@ My thesis dissertation project consisted on the development of a conversational 
 
 Main languages learned on the Master's: Java, C++, Javascript, C#, C.
 
+---
 
+#### Home | [Projects](/projects) | [Blog](/blog)
 
 
 
