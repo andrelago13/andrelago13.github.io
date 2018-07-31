@@ -2,6 +2,8 @@
 layout: default
 ---
 
+#### Home | [Projects](/projects) | [Blog](/blog)
+
 Hello! My name is André Lago. I just finished my Master's in Informatics and Computing Engineering from the Faculty of Engineering of the University of Porto and I am soon becoming a Software Engineer at Google, Munich. I have loved technology since I can remember and I look forward to having an impact in the world through the dedication I put into my work.
 
 This is my personal website, which is aimed towards displaying my professional and academic experience as well as my most important projects. The website also includes a blog which I use to share thoughts and experiences around what I do in my career.
