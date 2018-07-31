@@ -6,6 +6,7 @@ layout: blogpost
 
 # Tales of a "CEO"
 
+### June 25, 2017
 ### Tags: Miscelaneous
 ### [<- Previous post](/blog/my-work-at-google) | [Next post ->](/blog/managing-a-tech-conference)
 

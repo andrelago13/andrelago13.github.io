@@ -4,7 +4,7 @@ layout: blogpost
 
 #### [Home](/) | [Projects](/projects) | [Blog](/blog)
 
-# First blog post
+# Managing a tech conference
 
 ### November 30, 2017
 ### Tags: Miscelaneous

@@ -6,10 +6,11 @@ layout: blogpost
 
 # Applying for Google
 
+### November 29, 2016
 ### Tags: Work Experience
 ### [<- Previous post](/blog/first-blog-post) | [Next post ->](/blog/my-work-at-google)
 
-![Jellyfish](/assets/images/android.png)
+![Android](/assets/images/android.png)
 
 As you know, I was a Software Engineering Intern at Google during the Summer of 2016. It was a great experience, and I’ll write all about it soon, but I’d like to first talk about how you can apply to get an internship at a similar company, as well as give some advice on what you should do.
 

@@ -6,6 +6,7 @@ layout: blogpost
 
 # My work at Google
 
+### April 5, 2017
 ### Tags: Work Experience
 ### [<- Previous post](/blog/applying-for-google) | [Next post ->](/blog/tales-of-a-ceo)
 
