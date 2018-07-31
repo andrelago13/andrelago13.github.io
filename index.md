@@ -12,7 +12,7 @@ You can reach me though my [email](mailto:andrelago1995@gmail.com) or check out 
 
 ## Google – Software Engineering Intern (Mountain View, USA) – 2017
 
-![Google](/assets/google.png)
+![Google](/assets/images/google.png)
 
 After my first internship at Google, I was again selected for a Software Engineering internship at Google, this time in Mountain View, California, the company’s headquarters.
 
@@ -20,7 +20,7 @@ For this internship I was a part of the People Team, mainly working on the way c
 
 ## Google – Software Engineering Intern (London, UK) – 2016
 
-![Google](/assets/google.png)
+![Google](/assets/images/google.png)
 
 During the summer of 2016 I was a Software Engineering Intern at Google, London.
 
@@ -30,7 +30,7 @@ Working on Android was very exciting for a lot of different reasons. First, it i
 
 ## University of Porto – Teaching Assistant – 2015 to 2018
 
-![FEUP](/assets/feup.png)
+![FEUP](/assets/images/feup.png)
 
 Since 2015 I have been a teaching assistant in several courses of the Faculty of Engineering of the University of Porto, ranging from computer graphics to low-level peripheral driver development.
 
