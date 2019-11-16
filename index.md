@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Home | [Projects](/projects) | [Blog](/blog)
+#### Home | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
 Hello! My name is André Lago. I just finished my Master's in Informatics and Computing Engineering from the Faculty of Engineering of the University of Porto and I am soon becoming a Software Engineer at Google, Munich. I have loved technology since I can remember and I look forward to having an impact in the world through the dedication I put into my work.
 
@@ -60,7 +60,7 @@ Main languages learned on the Master's: Java, C++, Javascript, C#, C.
 
 ---
 
-#### Home | [Projects](/projects) | [Blog](/blog)
+#### Home | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
 
 

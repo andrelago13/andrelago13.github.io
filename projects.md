@@ -2,7 +2,7 @@
 layout: projects
 ---
 
-#### [Home](/) | Projects | [Blog](/blog)
+#### [Home](/) | Projects | [Blog](/blog) | [Talks](/talks)
 
 # Personal Projects
 
@@ -63,3 +63,7 @@ Demo on [YouTube](https://www.youtube.com/watch?v=Hgp11t09ssc).
 * Two Linux applications using shared memory to manage a store with several counters and clients.
 * Challenges: using synchronization methods to prevent data loss, deadlocks and race conditions.
 * Technologies: C, Linux, Eclipse, [GitHub](https://github.com/gtugablue/SOPE-Loja-Virtual).
+
+---
+
+#### [Home](/) | Projects | [Blog](/blog) | [Talks](/talks)
