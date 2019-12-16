@@ -10,9 +10,9 @@ This is a collection of the talks I have hosted over the last few years. When I 
 
 ---
 
-## To Be Announced, Porto (early 2020)
+## "The Past, Present and Future of Privacy" at [Talk a Bit](http://talkabit.org), Porto (Jan 11, 2020)
 
-More details on my latest talk coming soon :)
+More details coming soon :)
 
 ## "Building Privacy for the User" at [European Cyber Security Month](https://www.meetup.com/gdg-munich/events/264756824/), Munich (Oct 21, 2019)
 
