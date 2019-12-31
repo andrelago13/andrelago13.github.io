@@ -7,7 +7,7 @@ layout: default
 # Collection
 
 * Arctic Monkeys - [Tranquility Base Hotel & Casino](https://www.discogs.com/Arctic-Monkeys-Tranquility-Base-Hotel-Casino/release/11975894) (added on Dec 24 2019)
-* B.B. King & Eric Clapton - [Riding With The King](https://www.discogs.com/BB-King-Eric-Clapton-Riding-With-The-King/master/85205) (added on Dec 24 2019)
+* B.B. King & Eric Clapton - [Riding With The King](https://www.discogs.com/BB-King-Eric-Clapton-Riding-With-The-King/master/85205) (added on Dec 29 2019)
 * Dave Grohl - [Play](https://www.discogs.com/Dave-Grohl-Play/master/1415493) (added on Dec 29 2019)
 * Jimi Hendrix - [Experience Hendrix - The Best Of Jimi Hendrix](https://www.discogs.com/Jimi-Hendrix-Experience-Hendrix-The-Best-Of-Jimi-Hendrix/master/75394) (added on Dec 29 2019)
 * Gorillaz - [Plastic Beach](https://www.discogs.com/Gorillaz-Plastic-Beach/master/231219) (added on Dec 24 2019)
