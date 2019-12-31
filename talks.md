@@ -22,13 +22,13 @@ Building efficient privacy tools is essential in order to meet the user's expect
 
 Learn about what life is like as a Software Engineer at Google: not just the food, fun and other perks, but most importantly what are the practices that make Google's products great and that help us improve as engineers!
 
-## MsC thesis: Conversational Bot for Complex Smart Space Management, Porto (Jul 2018)
+## MsC thesis: "Conversational Bot for Complex Smart Space Management", Porto (Jul 2018)
 
 * [Slides](https://docs.google.com/presentation/d/1xdLa_xOsn_Lrny7VXcrjRBWad9XSrye0Z_wXWO9-Cl0/edit?usp=sharing)
 
 This was the presentation of my Master's thesis, which consisted on the development of a voice assistant capable of managing complex events on an IoT environment without requiring any visual User Interface or any physical interactions. I talk a bit about this project [here](/projects).
 
-## Get that dream job at Google at [Hello World Conference](https://www.facebook.com/helloworldconf/), Porto (Feb 15, 2018)
+## "Get that dream job at Google" at [Hello World Conference](https://www.facebook.com/helloworldconf/), Porto (Feb 15, 2018)
 
 * [Slides](https://docs.google.com/presentation/d/1B3pcuySb5N9kZdmzvNsPdC7eE7qiKrdESVHiXxCiEjE/edit?usp=sharing)
 
@@ -42,7 +42,7 @@ I served as the Conference Chair for the 2018 edition of Talk a Bit, a tech conf
 
 In 2017 I was the CEO of a simulated company with ~50 students, developing 4 different projects with clients that were real companies (an experience I write more about [in my blog](/blog/tales-of-a-ceo)). At the end of the course, each company had to deliver a presentation where they should not only explain each of the developed projects we had to pitch what was the vision and identity of the company. As the CEO, I was responsible for delivering this speach at the beginning of our company's presentation.
 
-## Doing internships before graduating at [SINF 2016](http://sinf.pt), Porto (2016)
+## "Doing internships before graduating" at [SINF 2016](http://sinf.pt), Porto (2016)
 
 * [Slides](https://docs.google.com/presentation/d/17ViwVVjoH1yGG-7-N7XC50urzTXukSQ6XX_d5n1WddY/edit?usp=sharing)
 
