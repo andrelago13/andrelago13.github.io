@@ -2,7 +2,7 @@
 layout: blogpost
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog)
+#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
 # First blog post
 
@@ -31,3 +31,5 @@ Enjoy!
 ### November 22, 2016
 ### Tags: Miscelaneous
 ### [Next post ->](/blog/applying-for-google)
+
+#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)

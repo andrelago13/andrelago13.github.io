@@ -2,7 +2,7 @@
 layout: blogpost
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog)
+#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
 # Managing a tech conference
 
@@ -29,3 +29,5 @@ I hope to see you all in Talk A Bit, on January 20th 2018 at [FEUP](https://www.
 ### November 30, 2017
 ### Tags: Work Experience
 ### [<- Previous post](/blog/tales-of-a-ceo)
+
+#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
