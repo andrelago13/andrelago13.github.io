@@ -4,9 +4,9 @@ layout: default
 
 #### Home | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
-Hello! My name is André Lago. I am a Software Engineer at Google Munich, where I work on building better privacy products for Google users across the world! Currently, I am the Tech Lead for [Activity Controls](myaccount.google.com/activitycontrols) and [Google Dashboard](myaccount.google.com/dashboard), two important privacy products that serve millions of Google users every single day.
+Hello! My name is André Lago. I am a Software Engineer at Google Munich, where I work on building better privacy products for Google users across the world! Currently, I am the Tech Lead for [Activity Controls](https://myaccount.google.com/activitycontrols) and [Google Dashboard](https://myaccount.google.com/dashboard), two important privacy products that serve millions of Google users every single day.
 
-I have a Master's in Informatics and Computing Engineering from the [Faculty of Engineering of the University of Porto](fe.up.pt) which is located in my hometown of Porto, Portugal. I have loved technology since I can remember and I look forward to having an impact in the world through the dedication I put into my work.
+I have a Master's in Informatics and Computing Engineering from the [Faculty of Engineering of the University of Porto](https://fe.up.pt) which is located in my hometown of Porto, Portugal. I have loved technology since I can remember and I look forward to having an impact in the world through the dedication I put into my work.
 
 This is my personal website, which is aimed towards displaying my professional and academic experience as well as my most important projects. The website also includes a blog which I use to share thoughts and experiences around what I do in my career.
 
@@ -22,9 +22,9 @@ You can reach me by [email](mailto:andrelago1995@gmail.com) or check out my prof
 
 Since I joined Google full-time I have been a member of the **Privacy and Data Protection Office** team. Our team works on both internal infrastructure, user-facing products and even open-source libraries that aim to provide users with better privacy tools for the products and technologies they use.
 
-For the majority of my time at the team, I've worked on user-facing privacy products such as [Activity Controls](myaccount.google.com/activitycontrols), [Google Dashboard](myaccount.google.com/dashboard), [Takeout](takeout.google.com), [Privacy Checkup](myaccount.google.com/privacycheckup), [Your Data](myaccount.google.com/yourdata/maps) and [MyActivity](myactivity.google.com).
+For the majority of my time at the team, I've worked on user-facing privacy products such as [Activity Controls](https://myaccount.google.com/activitycontrols), [Google Dashboard](https://myaccount.google.com/dashboard), [Takeout](https://takeout.google.com), [Privacy Checkup](https://myaccount.google.com/privacycheckup), [Your Data](https://myaccount.google.com/yourdata/maps) and [MyActivity](https://myactivity.google.com).
 
-Currently, I am the Tech Lead for both [Activity Controls](myaccount.google.com/activitycontrols) and [Google Dashboard](myaccount.google.com/dashboard), which means I am responsible for the technical parts of these products, making sure that they keep serving our users properly and driving the technical design of larger features and projects that we work on. Since there are other engineers working on both of these products, I also need to supervise work done by them on the products to make sure that the code quality is good and meets our standards for these products.
+Currently, I am the Tech Lead for both [Activity Controls](https://myaccount.google.com/activitycontrols) and [Google Dashboard](https://myaccount.google.com/dashboard), which means I am responsible for the technical parts of these products, making sure that they keep serving our users properly and driving the technical design of larger features and projects that we work on. Since there are other engineers working on both of these products, I also need to supervise work done by them on the products to make sure that the code quality is good and meets our standards for these products.
 
 The team has grown quite a bit since I joined, and the departure of some team members made me the second most senior engineer on the team, which has provided me great opportunities to mentor other colleagues and have a role with increased leadership.
 
