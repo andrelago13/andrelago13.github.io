@@ -21,6 +21,8 @@ layout: default
 * Arctic Monkeys - [Favourite Worst Nightmare](https://www.discogs.com/Arctic-Monkeys-Favourite-Worst-Nightmare-instrumentals/master/69774)
 * Arctic Monkeys - [Humbug](https://www.discogs.com/Arctic-Monkeys-Humbug/master/172482)
 * Arctic Monkeys - [Whatever People Say I Am, That's What I'm Not](https://www.discogs.com/Arctic-Monkeys-Title-TBC/master/76279)
+* Black Sabbath - [Paranoid](https://www.discogs.com/Black-Sabbath-Paranoid/master/302)
+* Bohren & Der Club Of Gore - [Sunset Mission](https://www.discogs.com/Bohren-Der-Club-Of-Gore-Sunset-Mission/master/60848)
 * Eminem - [Kamikaze](https://www.discogs.com/Eminem-Kamikaze/master/1416558)
 * Eminem - [The Eminem Show](https://www.discogs.com/Eminem-The-Eminem-Show/master/12344)
 * Eminem - [The Marshall Mathers LP](https://www.discogs.com/Eminem-The-Marshall-Mathers-LP/master/12236)
@@ -32,8 +34,13 @@ layout: default
 * Guns N' Roses - [Appetite For Destruction](https://www.discogs.com/Guns-N-Roses-Appetite-For-Destruction/master/9467)
 * Guns N' Roses - [Use Your Illusion I](https://www.discogs.com/Guns-N-Roses-Use-Your-Illusion-I/master/9536)
 * Guns N' Roses - [Use Your Illusion II](https://www.discogs.com/Guns-N-Roses-Use-Your-Illusion-II/master/9586)
+* Jack White - [Lazaretto](https://www.discogs.com/Jack-White-Lazaretto/master/695372)
+* Junior Kimbrough - [God Knows I Tried](https://www.discogs.com/Junior-Kimbrough-God-Knows-I-Tried/release/3905480)
+* Junior Kimbrough - [You Better Run](https://www.discogs.com/Junior-Kimbrough-You-Better-Run-The-Essential-Junior-Kimbrough/master/413520)
 * Logic - [Bobby Tarantino II](https://www.discogs.com/Logic-Bobby-Tarantino-II/release/13322628)
 * Logic - [The Incredible True Story](https://www.discogs.com/Logic-The-Incredible-True-Story/master/965423)
+* Michael Jackson - [Thriller](https://www.discogs.com/Michael-Jackson-Thriller/master/8883)
+* Miles Davis - [Kind Of Blue](https://www.discogs.com/Miles-Davis-Kind-Of-Blue/release/2825456)
 * Nirvana - [Bleach](https://www.discogs.com/Nirvana-Bleach/master/13773)
 * Nirvana - [In Utero](https://www.discogs.com/Nirvana-In-Utero/master/13859)
 * Nirvana - [MTV Unplugged In New York](https://www.discogs.com/Nirvana-MTV-Unplugged-In-New-York/master/22433)
@@ -55,6 +62,7 @@ layout: default
 * The Black Keys - [El Camino](https://www.discogs.com/The-Black-Keys-El-Camino/master/390739)
 * The Black Keys - [Let's Rock](https://www.discogs.com/The-Black-Keys-Lets-Rock/master/1569381)
 * The Clash - [London Calling](https://www.discogs.com/The-Clash-London-Calling/master/19382)
+* The Jimi Hendrix Experience - [Electric Ladyland](https://www.discogs.com/The-Jimi-Hendrix-Experience-Electric-Ladyland/release/399579)
 * ... and many others!
 
 ---
