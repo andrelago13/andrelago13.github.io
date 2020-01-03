@@ -13,6 +13,21 @@ layout: default
 * Gorillaz - [Plastic Beach](https://www.discogs.com/Gorillaz-Plastic-Beach/master/231219) (added on Dec 24 2019)
 * Red Hot Chili Peppers - [Californication](https://www.discogs.com/Red-Hot-Chili-Peppers-Californication/master/42546) (added on Dec 24 2019)
 
+## Vintage (found at family attics and other poorly maintained places)
+
+* Dire Straits - [Money For Nothing](https://www.discogs.com/Dire-Straits-Money-For-Nothing/master/23822) (added on Jan 3 2020)
+* Elton John - [The Very Best Of Elton John](https://www.discogs.com/Elton-John-The-Very-Best-Of-Elton-John/master/97842) (added on Jan 3 2020)
+* GNR - [Rock In Rio Douro](https://www.discogs.com/GNR-Rock-In-Rio-Douro/master/202085) (added on Jan 3 2020)
+* John Lennon - [Imagine (Music From The Motion Picture)](https://www.discogs.com/John-Lennon-Imagine-John-Lennon-Music-From-The-Motion-Picture/master/73048) (added on Jan 3 2020)
+* Ludwig van Beethoven - [Symphonie Nr. 9](https://www.discogs.com/Ludwig-van-Beethoven-Herbert-von-Karajan-Berliner-Philharmoniker-Anna-Tomowa-Sintow-Agnes-Baltsa-Pet/master/280617) (added on Jan 3 2020)
+* Pink Floyd - [Delicate Sound Of Thunder](https://www.discogs.com/Pink-Floyd-Delicate-Sound-Of-Thunder/master/406702) (added on Jan 3 2020)
+* R.E.M. - [Out Of Time](https://www.discogs.com/REM-Out-Of-Time/master/44148) (added on Jan 3 2020)
+* Resistência - [Palavras Ao Vento](https://www.discogs.com/Resist%C3%AAncia-Palavras-Ao-Vento/master/235236) (added on Jan 3 2020)
+* Rick Astley - [Whenever You Need Somebody](https://www.discogs.com/Rick-Astley-Whenever-You-Need-Somebody/master/96568) (added on Jan 3 2020)
+* Supertramp - [The Very Best Of Supertramp](https://www.discogs.com/Supertramp-The-Very-Best-Of-Supertramp/release/389572) (added on Jan 3 2020)
+* [Top Gun (Original Motion Picture Soundtrack)](https://www.discogs.com/Various-Top-Gun-Original-Motion-Picture-Soundtrack/master/77439) (added on Jan 3 2020)
+* U2 - [Rattle And Hum](https://www.discogs.com/U2-Rattle-And-Hum/master/62619) (added on Jan 3 2020)
+
 # Wishlist (alphabetically sorted)
 
 * AC/DC - [Back In Black](https://www.discogs.com/ACDC-Back-In-Black/master/8471)
