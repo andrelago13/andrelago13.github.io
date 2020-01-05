@@ -38,6 +38,7 @@ layout: default
 * **Arctic Monkeys - [Whatever People Say I Am, That's What I'm Not](https://www.discogs.com/Arctic-Monkeys-Title-TBC/master/76279)**
 * Black Sabbath - [Paranoid](https://www.discogs.com/Black-Sabbath-Paranoid/master/302)
 * Bohren & Der Club Of Gore - [Sunset Mission](https://www.discogs.com/Bohren-Der-Club-Of-Gore-Sunset-Mission/master/60848)
+* Daft Punk - [Random Access Memories](https://www.discogs.com/Daft-Punk-Random-Access-Memories/master/556257)
 * Eminem - [Kamikaze](https://www.discogs.com/Eminem-Kamikaze/master/1416558)
 * **Eminem - [The Eminem Show](https://www.discogs.com/Eminem-The-Eminem-Show/master/12344)**
 * Eminem - [The Marshall Mathers LP](https://www.discogs.com/Eminem-The-Marshall-Mathers-LP/master/12236)
@@ -76,6 +77,7 @@ layout: default
 * **The Black Keys - [Brothers](https://www.discogs.com/The-Black-Keys-Brothers/master/248620)**
 * The Black Keys - [El Camino](https://www.discogs.com/The-Black-Keys-El-Camino/master/390739)
 * **The Black Keys - [Let's Rock](https://www.discogs.com/The-Black-Keys-Lets-Rock/master/1569381)**
+* The Black Keys - [Thickfreakness](https://www.discogs.com/The-Black-Keys-Thickfreakness/master/79402)
 * The Clash - [London Calling](https://www.discogs.com/The-Clash-London-Calling/master/19382)
 * The Jimi Hendrix Experience - [Electric Ladyland](https://www.discogs.com/The-Jimi-Hendrix-Experience-Electric-Ladyland/release/399579)
 * ... and many others!
