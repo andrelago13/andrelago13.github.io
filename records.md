@@ -38,6 +38,9 @@ layout: default
 * **Arctic Monkeys - [Whatever People Say I Am, That's What I'm Not](https://www.discogs.com/Arctic-Monkeys-Title-TBC/master/76279)**
 * Black Sabbath - [Paranoid](https://www.discogs.com/Black-Sabbath-Paranoid/master/302)
 * Bohren & Der Club Of Gore - [Sunset Mission](https://www.discogs.com/Bohren-Der-Club-Of-Gore-Sunset-Mission/master/60848)
+* Capitão Fausto - [A Invenção Do Dia Claro](https://www.discogs.com/Capit%C3%A3o-Fausto-A-Inven%C3%A7%C3%A3o-Do-Dia-Claro/master/1563604)
+* Capitão Fausto - [Capitão Fausto Têm Os Dias Contados](https://www.discogs.com/Capit%C3%A3o-Fausto-Capit%C3%A3o-Fausto-T%C3%AAm-Os-Dias-Contados/master/1046570)
+* Capitão Fausto - [Gazela](https://www.discogs.com/Capit%C3%A3o-Fausto-Gazela/master/1160442)
 * Daft Punk - [Random Access Memories](https://www.discogs.com/Daft-Punk-Random-Access-Memories/master/556257)
 * Eminem - [Kamikaze](https://www.discogs.com/Eminem-Kamikaze/master/1416558)
 * **Eminem - [The Eminem Show](https://www.discogs.com/Eminem-The-Eminem-Show/master/12344)**
@@ -57,6 +60,8 @@ layout: default
 * **Logic - [The Incredible True Story](https://www.discogs.com/Logic-The-Incredible-True-Story/master/965423)**
 * Michael Jackson - [Thriller](https://www.discogs.com/Michael-Jackson-Thriller/master/8883)
 * Miles Davis - [Kind Of Blue](https://www.discogs.com/Miles-Davis-Kind-Of-Blue/release/2825456)
+* Nick Murphy f.k.a. Chet Faker - [Built On Glass](https://www.discogs.com/Chet-Faker-Built-On-Glass/master/676073)
+* Nick Murphy f.k.a. Chet Faker - [Thinking In Textures](https://www.discogs.com/Chet-Faker-Thinking-In-Textures/master/470775)
 * Nirvana - [Bleach](https://www.discogs.com/Nirvana-Bleach/master/13773)
 * Nirvana - [In Utero](https://www.discogs.com/Nirvana-In-Utero/master/13859)
 * Nirvana - [MTV Unplugged In New York](https://www.discogs.com/Nirvana-MTV-Unplugged-In-New-York/master/22433)
@@ -66,7 +71,11 @@ layout: default
 * Pink Floyd - [Wish You Were Here](https://www.discogs.com/Pink-Floyd-Wish-You-Were-Here/master/11703)
 * Portugal. The Man - [Evil Friends](https://www.discogs.com/Portugal-The-Man-Evil-Friends/master/569820)
 * **Portugal. The Man - [Woodstock](https://www.discogs.com/Portugal-The-Man-Woodstock/master/1205438)**
+* Queen - [A Night At The Opera](https://www.discogs.com/Queen-A-Night-At-The-Opera/master/5863)
+* Queen - [Jazz](https://www.discogs.com/Queen-Jazz/master/7103)
+* Queen - [Sheer Heart Attack](https://www.discogs.com/Queen-Certero-Ataque-Al-Coraz%C3%B3n/master/5303)
 * Ramones - [Ramones](https://www.discogs.com/Ramones-Ramones/master/39341)
+* System Of A Down - [Toxicity](https://www.discogs.com/System-Of-A-Down-Toxicity/master/35626)
 * **Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083)**
 * Tame Impala - [Innerspeaker](https://www.discogs.com/Tame-Impala-Innerspeaker/master/268496)
 * The Beatles - [1](https://www.discogs.com/The-Beatles-1/master/447254)
@@ -80,6 +89,8 @@ layout: default
 * The Black Keys - [Thickfreakness](https://www.discogs.com/The-Black-Keys-Thickfreakness/master/79402)
 * The Clash - [London Calling](https://www.discogs.com/The-Clash-London-Calling/master/19382)
 * The Jimi Hendrix Experience - [Electric Ladyland](https://www.discogs.com/The-Jimi-Hendrix-Experience-Electric-Ladyland/release/399579)
+* U.S. Girls - [In A Poem Unlimited](https://www.discogs.com/US-Girls-In-A-Poem-Unlimited/master/1314713)
+* U2 - [All That You Can't Leave Behind](https://www.discogs.com/U2-All-That-You-Cant-Leave-Behind/master/32791)
 * ... and many others!
 
 ---
