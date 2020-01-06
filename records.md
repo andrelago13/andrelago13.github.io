@@ -38,9 +38,16 @@ layout: default
 * **Arctic Monkeys - [Whatever People Say I Am, That's What I'm Not](https://www.discogs.com/Arctic-Monkeys-Title-TBC/master/76279)**
 * Black Sabbath - [Paranoid](https://www.discogs.com/Black-Sabbath-Paranoid/master/302)
 * Bohren & Der Club Of Gore - [Sunset Mission](https://www.discogs.com/Bohren-Der-Club-Of-Gore-Sunset-Mission/master/60848)
+* Bruno Mars - [Doo-Wops & Hooligans](https://www.discogs.com/Bruno-Mars-Doo-Wops-Hooligans/master/297460)
+* Bruno Mars - [Unorthodox Jukebox](https://www.discogs.com/Bruno-Mars-Unorthodox-Jukebox/master/505655)
 * Capitão Fausto - [A Invenção Do Dia Claro](https://www.discogs.com/Capit%C3%A3o-Fausto-A-Inven%C3%A7%C3%A3o-Do-Dia-Claro/master/1563604)
 * Capitão Fausto - [Capitão Fausto Têm Os Dias Contados](https://www.discogs.com/Capit%C3%A3o-Fausto-Capit%C3%A3o-Fausto-T%C3%AAm-Os-Dias-Contados/master/1046570)
 * Capitão Fausto - [Gazela](https://www.discogs.com/Capit%C3%A3o-Fausto-Gazela/master/1160442)
+* Chuck Berry - [After School Session](https://www.discogs.com/Chuck-Berry-After-School-Session/master/194415)
+* Chuck Berry - [Berry Is On Top](https://www.discogs.com/Chuck-Berry-Berry-Is-On-Top/master/163676)
+* Chuck Berry - [Rockit](https://www.discogs.com/Chuck-Berry-Rockit/master/292404)
+* Chuck Berry - [St. Louis To Liverpool](https://www.discogs.com/Chuck-Berry-St-Louis-To-Liverpool/master/135210)
+* Chuck Berry - [Twist](https://www.discogs.com/Chuck-Berry-Twist/master/462352)
 * Daft Punk - [Random Access Memories](https://www.discogs.com/Daft-Punk-Random-Access-Memories/master/556257)
 * Eminem - [Kamikaze](https://www.discogs.com/Eminem-Kamikaze/master/1416558)
 * **Eminem - [The Eminem Show](https://www.discogs.com/Eminem-The-Eminem-Show/master/12344)**
@@ -50,6 +57,8 @@ layout: default
 * Foo Fighters - [Sonic Highways](https://www.discogs.com/Foo-Fighters-Sonic-Highways/master/746528)
 * Foo Fighters - [The Colour And The Shape](https://www.discogs.com/Foo-Fighters-The-Colour-And-The-Shape/master/62129)
 * Foo Fighters - [Wasting Light](https://www.discogs.com/Foo-Fighters-Wasting-Light-Deluxe-Pre-Order-Package/master/326257)
+* [Guardians Of The Galaxy Awesome Mix Vol. 1](https://www.discogs.com/Various-Guardians-Of-The-Galaxy-Awesome-Mix-Vol-1/release/6149924)
+* [Guardians Of The Galaxy Awesome Mix Vol. 2](https://www.discogs.com/Various-Guardians-Of-The-Galaxy-Vol-2-Awesome-Mix-Vol-2/master/1172509)
 * Guns N' Roses - [Appetite For Destruction](https://www.discogs.com/Guns-N-Roses-Appetite-For-Destruction/master/9467)
 * Guns N' Roses - [Use Your Illusion I](https://www.discogs.com/Guns-N-Roses-Use-Your-Illusion-I/master/9536)
 * Guns N' Roses - [Use Your Illusion II](https://www.discogs.com/Guns-N-Roses-Use-Your-Illusion-II/master/9586)
@@ -91,6 +100,7 @@ layout: default
 * The Jimi Hendrix Experience - [Electric Ladyland](https://www.discogs.com/The-Jimi-Hendrix-Experience-Electric-Ladyland/release/399579)
 * U.S. Girls - [In A Poem Unlimited](https://www.discogs.com/US-Girls-In-A-Poem-Unlimited/master/1314713)
 * U2 - [All That You Can't Leave Behind](https://www.discogs.com/U2-All-That-You-Cant-Leave-Behind/master/32791)
+* ZZ Top - [Eliminator](https://www.discogs.com/ZZ-Top-Eliminator/master/48605)
 * ... and many others!
 
 ---
