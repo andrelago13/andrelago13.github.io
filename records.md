@@ -65,6 +65,8 @@ layout: default
 * **Jack White - [Lazaretto](https://www.discogs.com/Jack-White-Lazaretto/master/695372)**
 * Junior Kimbrough - [God Knows I Tried](https://www.discogs.com/Junior-Kimbrough-God-Knows-I-Tried/release/3905480)
 * Junior Kimbrough - [You Better Run](https://www.discogs.com/Junior-Kimbrough-You-Better-Run-The-Essential-Junior-Kimbrough/master/413520)
+* Kendrick Lamar - [Damn.](https://www.discogs.com/Kendrick-Lamar-Damn/master/1164779)
+* Kendrick Lamar - [To Pimp A Butterfly](https://www.discogs.com/Kendrick-Lamar-To-Pimp-A-Butterfly/master/810214)
 * Logic - [Bobby Tarantino II](https://www.discogs.com/Logic-Bobby-Tarantino-II/release/13322628)
 * **Logic - [The Incredible True Story](https://www.discogs.com/Logic-The-Incredible-True-Story/master/965423)**
 * Michael Jackson - [Thriller](https://www.discogs.com/Michael-Jackson-Thriller/master/8883)
