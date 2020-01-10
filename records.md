@@ -32,6 +32,8 @@ layout: default
 
 * AC/DC - [Back In Black](https://www.discogs.com/ACDC-Back-In-Black/master/8471)
 * AC/DC - [High Voltage](https://www.discogs.com/ACDC-High-Voltage/master/8437)
+* Aerosmith - [Get A Grip](https://www.discogs.com/Aerosmith-Get-A-Grip/master/37273)
+* Aerosmith – [Toys In The Attic](https://www.discogs.com/Aerosmith-Toys-In-The-Attic/master/36627)
 * Arctic Monkeys - [AM](https://www.discogs.com/Arctic-Monkeys-AM/master/593987)
 * Arctic Monkeys - [Favourite Worst Nightmare](https://www.discogs.com/Arctic-Monkeys-Favourite-Worst-Nightmare-instrumentals/master/69774)
 * Arctic Monkeys - [Humbug](https://www.discogs.com/Arctic-Monkeys-Humbug/master/172482)
@@ -77,6 +79,8 @@ layout: default
 * Nirvana - [In Utero](https://www.discogs.com/Nirvana-In-Utero/master/13859)
 * Nirvana - [MTV Unplugged In New York](https://www.discogs.com/Nirvana-MTV-Unplugged-In-New-York/master/22433)
 * **Nirvana - [Nevermind](https://www.discogs.com/Nirvana-Nevermind/master/13814)**
+* Oasis – [(What's The Story) Morning Glory?](https://www.discogs.com/Oasis-Whats-The-Story-Morning-Glory/master/52220)
+* Pearl Jam – [Ten](https://www.discogs.com/Pearl-Jam-Ten/master/73824)
 * **Pink Floyd - [The Dark Side Of The Moon](https://www.discogs.com/Pink-Floyd-The-Dark-Side-Of-The-Moon/master/10362)**
 * **Pink Floyd - [The Wall](https://www.discogs.com/Pink-Floyd-The-Wall/master/11329)**
 * Pink Floyd - [Wish You Were Here](https://www.discogs.com/Pink-Floyd-Wish-You-Were-Here/master/11703)
