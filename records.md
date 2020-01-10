@@ -86,6 +86,7 @@ layout: default
 * Queen - [Jazz](https://www.discogs.com/Queen-Jazz/master/7103)
 * Queen - [Sheer Heart Attack](https://www.discogs.com/Queen-Certero-Ataque-Al-Coraz%C3%B3n/master/5303)
 * Ramones - [Ramones](https://www.discogs.com/Ramones-Ramones/master/39341)
+* System Of A Down - [Mezmerize](https://www.amazon.de/dp/B07FSRB4L4)
 * System Of A Down - [Toxicity](https://www.discogs.com/System-Of-A-Down-Toxicity/master/35626)
 * **Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083)**
 * Tame Impala - [Innerspeaker](https://www.discogs.com/Tame-Impala-Innerspeaker/master/268496)
