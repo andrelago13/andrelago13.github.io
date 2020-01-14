@@ -108,6 +108,8 @@ layout: default
 * The Black Keys - [Thickfreakness](https://www.discogs.com/The-Black-Keys-Thickfreakness/master/79402)
 * The Clash - [London Calling](https://www.discogs.com/The-Clash-London-Calling/master/19382)
 * The Jimi Hendrix Experience - [Electric Ladyland](https://www.discogs.com/The-Jimi-Hendrix-Experience-Electric-Ladyland/release/399579)
+* Tyler, The Creator - [Igor](https://www.discogs.com/TylerCreator-Igor/master/1591877)
+* Tyler, The Creator - [Scum Fuck Flower Boy](https://www.discogs.com/TylerCreator-Scum-Fuck-Flower-Boy/master/1212609)
 * U.S. Girls - [In A Poem Unlimited](https://www.discogs.com/US-Girls-In-A-Poem-Unlimited/master/1314713)
 * U2 - [All That You Can't Leave Behind](https://www.discogs.com/U2-All-That-You-Cant-Leave-Behind/master/32791)
 * ZZ Top - [Eliminator](https://www.discogs.com/ZZ-Top-Eliminator/master/48605)
