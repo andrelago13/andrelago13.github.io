@@ -108,6 +108,7 @@ layout: default
 * System Of A Down - [Toxicity](https://www.discogs.com/System-Of-A-Down-Toxicity/master/35626)
 * **Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083)**
 * Tame Impala - [Innerspeaker](https://www.discogs.com/Tame-Impala-Innerspeaker/master/268496)
+* Tenacious D - [The Pick Of Destiny](https://www.discogs.com/Tenacious-D-The-Pick-Of-Destiny/master/52517)
 * The Beatles - [1](https://www.discogs.com/The-Beatles-1/master/447254)
 * The Beatles - [Abbey Road](https://www.discogs.com/The-Beatles-Abbey-Road/master/24047)
 * The Beatles - [Help!](https://www.discogs.com/The-Beatles-Help/master/45895)
