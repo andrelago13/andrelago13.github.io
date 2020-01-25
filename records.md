@@ -6,12 +6,13 @@ layout: default
 
 # Collection
 
-* Arctic Monkeys - [Tranquility Base Hotel & Casino](https://www.discogs.com/Arctic-Monkeys-Tranquility-Base-Hotel-Casino/release/11975894) (added on Dec 24 2019)
-* B.B. King & Eric Clapton - [Riding With The King](https://www.discogs.com/BB-King-Eric-Clapton-Riding-With-The-King/master/85205) (added on Dec 29 2019)
-* Dave Grohl - [Play](https://www.discogs.com/Dave-Grohl-Play/master/1415493) (added on Dec 29 2019)
-* Jimi Hendrix - [Experience Hendrix - The Best Of Jimi Hendrix](https://www.discogs.com/Jimi-Hendrix-Experience-Hendrix-The-Best-Of-Jimi-Hendrix/master/75394) (added on Dec 29 2019)
-* Gorillaz - [Plastic Beach](https://www.discogs.com/Gorillaz-Plastic-Beach/master/231219) (added on Dec 24 2019)
-* Red Hot Chili Peppers - [Californication](https://www.discogs.com/Red-Hot-Chili-Peppers-Californication/master/42546) (added on Dec 24 2019)
+* Arctic Monkeys - [Tranquility Base Hotel & Casino](https://www.discogs.com/Arctic-Monkeys-Tranquility-Base-Hotel-Casino/release/11975894) (added on Dec 24 2019, Porto, Christmas)
+* B.B. King & Eric Clapton - [Riding With The King](https://www.discogs.com/BB-King-Eric-Clapton-Riding-With-The-King/master/85205) (added on Dec 29 2019, Porto, Christmas)
+* Dave Grohl - [Play](https://www.discogs.com/Dave-Grohl-Play/master/1415493) (added on Dec 29 2019, Porto, Christmas)
+* Jimi Hendrix - [Experience Hendrix - The Best Of Jimi Hendrix](https://www.discogs.com/Jimi-Hendrix-Experience-Hendrix-The-Best-Of-Jimi-Hendrix/master/75394) (added on Dec 29 2019, Porto, Christmas)
+* Gorillaz - [Plastic Beach](https://www.discogs.com/Gorillaz-Plastic-Beach/master/231219) (added on Dec 24 2019, Porto, Christmas)
+* Red Hot Chili Peppers - [Californication](https://www.discogs.com/Red-Hot-Chili-Peppers-Californication/master/42546) (added on Dec 24 2019, Porto, Christmas)
+* Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083) (added on Jan 25 2020, Munich, Optimal Records)
 
 ## Vintage (found at family attics and other poorly maintained places)
 
@@ -106,7 +107,6 @@ layout: default
 * Ramones - [Ramones](https://www.discogs.com/Ramones-Ramones/master/39341)
 * System Of A Down - [Mezmerize](https://www.amazon.de/dp/B07FSRB4L4)
 * System Of A Down - [Toxicity](https://www.discogs.com/System-Of-A-Down-Toxicity/master/35626)
-* **Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083)**
 * Tame Impala - [Innerspeaker](https://www.discogs.com/Tame-Impala-Innerspeaker/master/268496)
 * Tenacious D - [The Pick Of Destiny](https://www.discogs.com/Tenacious-D-The-Pick-Of-Destiny/master/52517)
 * The Beatles - [1](https://www.discogs.com/The-Beatles-1/master/447254)
