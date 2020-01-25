@@ -12,7 +12,7 @@ This is a collection of the talks I have hosted over the last few years. When I 
 
 ## "The Past, Present and Future of Privacy" at [Talk a Bit](http://talkabit.org), Porto (Jan 11, 2020)
 
-More details coming soon :)
+Privacy is a huge area of work at Google, and it plays a crucial role in the way we design and develop our products. In this talk I went through a little bit of the history of privacy and what led to it becoming such an important topic, moving to some of the ideas around the present and future of privacy. This included topics like the [Data Transfer Project](https://datatransferproject.dev/) and [Differential Privacy](https://github.com/google/differential-privacy).
 
 ## "Building Privacy for the User" at [European Cyber Security Month](https://www.meetup.com/gdg-munich/events/264756824/), Munich (Oct 21, 2019)
 
