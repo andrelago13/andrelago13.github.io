@@ -4,30 +4,34 @@ layout: default
 
 #### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
-# Collection
+# Collection (new)
 
 * Arctic Monkeys - [Tranquility Base Hotel & Casino](https://www.discogs.com/Arctic-Monkeys-Tranquility-Base-Hotel-Casino/release/11975894) (added on Dec 24 2019, Porto, Christmas)
 * B.B. King & Eric Clapton - [Riding With The King](https://www.discogs.com/BB-King-Eric-Clapton-Riding-With-The-King/master/85205) (added on Dec 29 2019, Porto, Christmas)
 * Dave Grohl - [Play](https://www.discogs.com/Dave-Grohl-Play/master/1415493) (added on Dec 29 2019, Porto, Christmas)
-* Jimi Hendrix - [Experience Hendrix - The Best Of Jimi Hendrix](https://www.discogs.com/Jimi-Hendrix-Experience-Hendrix-The-Best-Of-Jimi-Hendrix/master/75394) (added on Dec 29 2019, Porto, Christmas)
 * Gorillaz - [Plastic Beach](https://www.discogs.com/Gorillaz-Plastic-Beach/master/231219) (added on Dec 24 2019, Porto, Christmas)
+* Jimi Hendrix - [Experience Hendrix - The Best Of Jimi Hendrix](https://www.discogs.com/Jimi-Hendrix-Experience-Hendrix-The-Best-Of-Jimi-Hendrix/master/75394) (added on Dec 29 2019, Porto, Christmas)
+* Logic - [The Incredible True Story](https://www.discogs.com/Logic-The-Incredible-True-Story/master/965423) (added on Feb 16 2020, San Francisco, [Vinyl Solution Records](https://goo.gl/maps/wBKuwLo4mYhGpHDf7))
 * Red Hot Chili Peppers - [Californication](https://www.discogs.com/Red-Hot-Chili-Peppers-Californication/master/42546) (added on Dec 24 2019, Porto, Christmas)
 * Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083) (added on Jan 25 2020, Munich, Optimal Records)
+* Tyler, The Creator - [Igor](https://www.discogs.com/TylerCreator-Igor/master/1591877) (added on Feb 16 2020, San Francisco, [Vinyl Solution Records](https://goo.gl/maps/wBKuwLo4mYhGpHDf7))
 
-## Vintage (found at family attics and other poorly maintained places)
+## Collection (2nd hand)
 
-* Dire Straits - [Money For Nothing](https://www.discogs.com/Dire-Straits-Money-For-Nothing/master/23822) (added on Jan 3 2020)
-* Elton John - [The Very Best Of Elton John](https://www.discogs.com/Elton-John-The-Very-Best-Of-Elton-John/master/97842) (added on Jan 3 2020)
-* GNR - [Rock In Rio Douro](https://www.discogs.com/GNR-Rock-In-Rio-Douro/master/202085) (added on Jan 3 2020)
-* John Lennon - [Imagine (Music From The Motion Picture)](https://www.discogs.com/John-Lennon-Imagine-John-Lennon-Music-From-The-Motion-Picture/master/73048) (added on Jan 3 2020)
-* Ludwig van Beethoven - [Symphonie Nr. 9](https://www.discogs.com/Ludwig-van-Beethoven-Herbert-von-Karajan-Berliner-Philharmoniker-Anna-Tomowa-Sintow-Agnes-Baltsa-Pet/master/280617) (added on Jan 3 2020)
-* Pink Floyd - [Delicate Sound Of Thunder](https://www.discogs.com/Pink-Floyd-Delicate-Sound-Of-Thunder/master/406702) (added on Jan 3 2020)
-* R.E.M. - [Out Of Time](https://www.discogs.com/REM-Out-Of-Time/master/44148) (added on Jan 3 2020)
-* Resistência - [Palavras Ao Vento](https://www.discogs.com/Resist%C3%AAncia-Palavras-Ao-Vento/master/235236) (added on Jan 3 2020)
-* Rick Astley - [Whenever You Need Somebody](https://www.discogs.com/Rick-Astley-Whenever-You-Need-Somebody/master/96568) (added on Jan 3 2020)
-* Supertramp - [The Very Best Of Supertramp](https://www.discogs.com/Supertramp-The-Very-Best-Of-Supertramp/release/389572) (added on Jan 3 2020)
-* [Top Gun (Original Motion Picture Soundtrack)](https://www.discogs.com/Various-Top-Gun-Original-Motion-Picture-Soundtrack/master/77439) (added on Jan 3 2020)
-* U2 - [Rattle And Hum](https://www.discogs.com/U2-Rattle-And-Hum/master/62619) (added on Jan 3 2020)
+* Dire Straits - [Money For Nothing](https://www.discogs.com/Dire-Straits-Money-For-Nothing/master/23822) (added on Jan 3 2020, Grandma's)
+* Elton John - [The Very Best Of Elton John](https://www.discogs.com/Elton-John-The-Very-Best-Of-Elton-John/master/97842) (added on Jan 3 2020, Grandma's)
+* GNR - [Rock In Rio Douro](https://www.discogs.com/GNR-Rock-In-Rio-Douro/master/202085) (added on Jan 3 2020, Grandma's)
+* John Lennon - [Imagine (Music From The Motion Picture)](https://www.discogs.com/John-Lennon-Imagine-John-Lennon-Music-From-The-Motion-Picture/master/73048) (added on Jan 3 2020, Grandma's)
+* Ludwig van Beethoven - [Symphonie Nr. 9](https://www.discogs.com/Ludwig-van-Beethoven-Herbert-von-Karajan-Berliner-Philharmoniker-Anna-Tomowa-Sintow-Agnes-Baltsa-Pet/master/280617) (added on Jan 3 2020, Grandma's)
+* Pink Floyd - [Delicate Sound Of Thunder](https://www.discogs.com/Pink-Floyd-Delicate-Sound-Of-Thunder/master/406702) (added on Jan 3 2020, Grandma's)
+* R.E.M. - [Out Of Time](https://www.discogs.com/REM-Out-Of-Time/master/44148) (added on Jan 3 2020, Grandma's)
+* Resistência - [Palavras Ao Vento](https://www.discogs.com/Resist%C3%AAncia-Palavras-Ao-Vento/master/235236) (added on Jan 3 2020, Grandma's)
+* Rick Astley - [Whenever You Need Somebody](https://www.discogs.com/Rick-Astley-Whenever-You-Need-Somebody/master/96568) (added on Jan 3 2020, Grandma's)
+* Supertramp - [The Very Best Of Supertramp](https://www.discogs.com/Supertramp-The-Very-Best-Of-Supertramp/release/389572) (added on Jan 3 2020, Grandma's)
+* The Beatles - [Abbey Road](https://www.discogs.com/The-Beatles-Abbey-Road/master/24047) (added on Feb 8 2020, San Francisco, [Rooky Ricardo's Records](https://goo.gl/maps/F5wPXsYqwzTRkaMZ9))
+* The Beatles - [Sgt. Pepper's Lonely Hearts Club Band](https://www.discogs.com/The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band/master/23934) (added on Feb 8 2020, San Francisco, [Rooky Ricardo's Records](https://goo.gl/maps/F5wPXsYqwzTRkaMZ9))
+* [Top Gun (Original Motion Picture Soundtrack)](https://www.discogs.com/Various-Top-Gun-Original-Motion-Picture-Soundtrack/master/77439) (added on Jan 3 2020, Grandma's)
+* U2 - [Rattle And Hum](https://www.discogs.com/U2-Rattle-And-Hum/master/62619) (added on Jan 3 2020, Grandma's)
 
 # Wishlist (alphabetically sorted)
 
@@ -77,7 +81,6 @@ layout: default
 * Kendrick Lamar - [Damn.](https://www.discogs.com/Kendrick-Lamar-Damn/master/1164779)
 * Kendrick Lamar - [To Pimp A Butterfly](https://www.discogs.com/Kendrick-Lamar-To-Pimp-A-Butterfly/master/810214)
 * Logic - [Bobby Tarantino II](https://www.discogs.com/Logic-Bobby-Tarantino-II/release/13322628)
-* **Logic - [The Incredible True Story](https://www.discogs.com/Logic-The-Incredible-True-Story/master/965423)**
 * Metallica - [Death Magnetic](https://www.discogs.com/Metallica-Death-Magnetic/master/8956)
 * Metallica - [Hardwired...To Self-Destruct](https://www.discogs.com/Metallica-HardwiredTo-Self-Destruct/master/1083868)
 * Metallica - [Kill 'Em All](https://www.discogs.com/Metallica-Kill-Em-All/master/6387)
@@ -110,9 +113,7 @@ layout: default
 * Tame Impala - [Innerspeaker](https://www.discogs.com/Tame-Impala-Innerspeaker/master/268496)
 * Tenacious D - [The Pick Of Destiny](https://www.discogs.com/Tenacious-D-The-Pick-Of-Destiny/master/52517)
 * The Beatles - [1](https://www.discogs.com/The-Beatles-1/master/447254)
-* The Beatles - [Abbey Road](https://www.discogs.com/The-Beatles-Abbey-Road/master/24047)
 * The Beatles - [Help!](https://www.discogs.com/The-Beatles-Help/master/45895)
-* **The Beatles - [Sgt. Pepper's Lonely Hearts Club Band](https://www.discogs.com/The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band/master/23934)**
 * The Black Keys - [Attack & Release](https://www.discogs.com/The-Black-Keys-Attack-Release/master/38811)
 * **The Black Keys - [Brothers](https://www.discogs.com/The-Black-Keys-Brothers/master/248620)**
 * The Black Keys - [El Camino](https://www.discogs.com/The-Black-Keys-El-Camino/master/390739)
@@ -123,7 +124,6 @@ layout: default
 * Tool - [Fear Inoculum](https://www.discogs.com/Tool-Fear-Inoculum/master/1598307)
 * Two Door Cinema Club - [False Alarm](https://www.discogs.com/Two-Door-Cinema-Club-False-Alarm/master/1565500)
 * Two Door Cinema Club - [Tourist History](https://www.discogs.com/Two-Door-Cinema-Club-Tourist-History/master/247264)
-* Tyler, The Creator - [Igor](https://www.discogs.com/TylerCreator-Igor/master/1591877)
 * Tyler, The Creator - [Scum Fuck Flower Boy](https://www.discogs.com/TylerCreator-Scum-Fuck-Flower-Boy/master/1212609)
 * U.S. Girls - [In A Poem Unlimited](https://www.discogs.com/US-Girls-In-A-Poem-Unlimited/master/1314713)
 * U2 - [All That You Can't Leave Behind](https://www.discogs.com/U2-All-That-You-Cant-Leave-Behind/master/32791)
