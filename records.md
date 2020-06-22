@@ -11,6 +11,7 @@ layout: default
 * Dave Grohl - [Play](https://www.discogs.com/Dave-Grohl-Play/master/1415493) (added on Dec 29 2019, Porto, Christmas)
 * Gorillaz - [Plastic Beach](https://www.discogs.com/Gorillaz-Plastic-Beach/master/231219) (added on Dec 24 2019, Porto, Christmas)
 * Jimi Hendrix - [Experience Hendrix - The Best Of Jimi Hendrix](https://www.discogs.com/Jimi-Hendrix-Experience-Hendrix-The-Best-Of-Jimi-Hendrix/master/75394) (added on Dec 29 2019, Porto, Christmas)
+* Jimi Hendrix - [Electric Ladyland](https://www.discogs.com/The-Jimi-Hendrix-Experience-Electric-Ladyland/release/399579) (added on June 20 2020, Porto)
 * Logic - [The Incredible True Story](https://www.discogs.com/Logic-The-Incredible-True-Story/master/965423) (added on Feb 16 2020, San Francisco, [Vinyl Solution Records](https://goo.gl/maps/wBKuwLo4mYhGpHDf7))
 * Red Hot Chili Peppers - [Californication](https://www.discogs.com/Red-Hot-Chili-Peppers-Californication/master/42546) (added on Dec 24 2019, Porto, Christmas)
 * Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083) (added on Jan 25 2020, Munich, Optimal Records)
@@ -120,7 +121,6 @@ layout: default
 * **The Black Keys - [Let's Rock](https://www.discogs.com/The-Black-Keys-Lets-Rock/master/1569381)**
 * The Black Keys - [Thickfreakness](https://www.discogs.com/The-Black-Keys-Thickfreakness/master/79402)
 * The Clash - [London Calling](https://www.discogs.com/The-Clash-London-Calling/master/19382)
-* The Jimi Hendrix Experience - [Electric Ladyland](https://www.discogs.com/The-Jimi-Hendrix-Experience-Electric-Ladyland/release/399579)
 * Tool - [Fear Inoculum](https://www.discogs.com/Tool-Fear-Inoculum/master/1598307)
 * Two Door Cinema Club - [False Alarm](https://www.discogs.com/Two-Door-Cinema-Club-False-Alarm/master/1565500)
 * Two Door Cinema Club - [Tourist History](https://www.discogs.com/Two-Door-Cinema-Club-Tourist-History/master/247264)
