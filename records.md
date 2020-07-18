@@ -15,7 +15,9 @@ layout: default
 * Logic - [The Incredible True Story](https://www.discogs.com/Logic-The-Incredible-True-Story/master/965423) (added on Feb 16 2020, San Francisco, [Vinyl Solution Records](https://goo.gl/maps/wBKuwLo4mYhGpHDf7))
 * Red Hot Chili Peppers - [Californication](https://www.discogs.com/Red-Hot-Chili-Peppers-Californication/master/42546) (added on Dec 24 2019, Porto, Christmas)
 * Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083) (added on Jan 25 2020, Munich, Optimal Records)
+* The Black Keys - [Let's Rock](https://www.discogs.com/The-Black-Keys-Lets-Rock/master/1569381) (added on Jul 18 2020, Porto, [Louie Louie](https://goo.gl/maps/AH2ghHEg5LW4b7DA8))
 * Tyler, The Creator - [Igor](https://www.discogs.com/TylerCreator-Igor/master/1591877) (added on Feb 16 2020, San Francisco, [Vinyl Solution Records](https://goo.gl/maps/wBKuwLo4mYhGpHDf7))
+* Tyler, The Creator - [Scum Fuck Flower Boy](https://www.discogs.com/TylerCreator-Scum-Fuck-Flower-Boy/master/1212609) (added on Jul 18 2020, Porto, [Porto Calling](https://g.page/portocalling?share))
 
 ## Collection (2nd hand)
 
@@ -118,13 +120,11 @@ layout: default
 * The Black Keys - [Attack & Release](https://www.discogs.com/The-Black-Keys-Attack-Release/master/38811)
 * **The Black Keys - [Brothers](https://www.discogs.com/The-Black-Keys-Brothers/master/248620)**
 * The Black Keys - [El Camino](https://www.discogs.com/The-Black-Keys-El-Camino/master/390739)
-* **The Black Keys - [Let's Rock](https://www.discogs.com/The-Black-Keys-Lets-Rock/master/1569381)**
 * The Black Keys - [Thickfreakness](https://www.discogs.com/The-Black-Keys-Thickfreakness/master/79402)
 * The Clash - [London Calling](https://www.discogs.com/The-Clash-London-Calling/master/19382)
 * Tool - [Fear Inoculum](https://www.discogs.com/Tool-Fear-Inoculum/master/1598307)
 * Two Door Cinema Club - [False Alarm](https://www.discogs.com/Two-Door-Cinema-Club-False-Alarm/master/1565500)
 * Two Door Cinema Club - [Tourist History](https://www.discogs.com/Two-Door-Cinema-Club-Tourist-History/master/247264)
-* Tyler, The Creator - [Scum Fuck Flower Boy](https://www.discogs.com/TylerCreator-Scum-Fuck-Flower-Boy/master/1212609)
 * U.S. Girls - [In A Poem Unlimited](https://www.discogs.com/US-Girls-In-A-Poem-Unlimited/master/1314713)
 * U2 - [All That You Can't Leave Behind](https://www.discogs.com/U2-All-That-You-Cant-Leave-Behind/master/32791)
 * ZZ Top - [Eliminator](https://www.discogs.com/ZZ-Top-Eliminator/master/48605)
