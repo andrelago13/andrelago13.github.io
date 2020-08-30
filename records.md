@@ -8,11 +8,13 @@ layout: default
 
 * Arctic Monkeys - [Tranquility Base Hotel & Casino](https://www.discogs.com/Arctic-Monkeys-Tranquility-Base-Hotel-Casino/release/11975894) (added on Dec 24 2019, Porto, Christmas)
 * B.B. King & Eric Clapton - [Riding With The King](https://www.discogs.com/BB-King-Eric-Clapton-Riding-With-The-King/master/85205) (added on Dec 29 2019, Porto, Christmas)
+* Capitão Fausto - [Capitão Fausto Têm Os Dias Contados](https://www.discogs.com/Capit%C3%A3o-Fausto-Capit%C3%A3o-Fausto-T%C3%AAm-Os-Dias-Contados/master/1046570) (added on Aug 29 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
 * Dave Grohl - [Play](https://www.discogs.com/Dave-Grohl-Play/master/1415493) (added on Dec 29 2019, Porto, Christmas)
 * Gorillaz - [Plastic Beach](https://www.discogs.com/Gorillaz-Plastic-Beach/master/231219) (added on Dec 24 2019, Porto, Christmas)
 * Jimi Hendrix - [Experience Hendrix - The Best Of Jimi Hendrix](https://www.discogs.com/Jimi-Hendrix-Experience-Hendrix-The-Best-Of-Jimi-Hendrix/master/75394) (added on Dec 29 2019, Porto, Christmas)
 * Jimi Hendrix - [Electric Ladyland](https://www.discogs.com/The-Jimi-Hendrix-Experience-Electric-Ladyland/release/399579) (added on June 20 2020, Porto)
 * Logic - [The Incredible True Story](https://www.discogs.com/Logic-The-Incredible-True-Story/master/965423) (added on Feb 16 2020, San Francisco, [Vinyl Solution Records](https://goo.gl/maps/wBKuwLo4mYhGpHDf7))
+* Pink Floyd - [The Dark Side Of The Moon](https://www.discogs.com/Pink-Floyd-The-Dark-Side-Of-The-Moon/master/10362) (added on Aug 29 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
 * Red Hot Chili Peppers - [Californication](https://www.discogs.com/Red-Hot-Chili-Peppers-Californication/master/42546) (added on Dec 24 2019, Porto, Christmas)
 * Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083) (added on Jan 25 2020, Munich, Optimal Records)
 * The Black Keys - [Let's Rock](https://www.discogs.com/The-Black-Keys-Lets-Rock/master/1569381) (added on Jul 18 2020, Porto, [Louie Louie](https://goo.gl/maps/AH2ghHEg5LW4b7DA8))
@@ -54,7 +56,6 @@ layout: default
 * Bruno Mars - [Doo-Wops & Hooligans](https://www.discogs.com/Bruno-Mars-Doo-Wops-Hooligans/master/297460)
 * Bruno Mars - [Unorthodox Jukebox](https://www.discogs.com/Bruno-Mars-Unorthodox-Jukebox/master/505655)
 * Capitão Fausto - [A Invenção Do Dia Claro](https://www.discogs.com/Capit%C3%A3o-Fausto-A-Inven%C3%A7%C3%A3o-Do-Dia-Claro/master/1563604)
-* Capitão Fausto - [Capitão Fausto Têm Os Dias Contados](https://www.discogs.com/Capit%C3%A3o-Fausto-Capit%C3%A3o-Fausto-T%C3%AAm-Os-Dias-Contados/master/1046570)
 * Capitão Fausto - [Gazela](https://www.discogs.com/Capit%C3%A3o-Fausto-Gazela/master/1160442)
 * Chuck Berry - [After School Session](https://www.discogs.com/Chuck-Berry-After-School-Session/master/194415)
 * Chuck Berry - [Berry Is On Top](https://www.discogs.com/Chuck-Berry-Berry-Is-On-Top/master/163676)
@@ -102,7 +103,6 @@ layout: default
 * **Nirvana - [Nevermind](https://www.discogs.com/Nirvana-Nevermind/master/13814)**
 * Oasis – [(What's The Story) Morning Glory?](https://www.discogs.com/Oasis-Whats-The-Story-Morning-Glory/master/52220)
 * Pearl Jam – [Ten](https://www.discogs.com/Pearl-Jam-Ten/master/73824)
-* **Pink Floyd - [The Dark Side Of The Moon](https://www.discogs.com/Pink-Floyd-The-Dark-Side-Of-The-Moon/master/10362)**
 * **Pink Floyd - [The Wall](https://www.discogs.com/Pink-Floyd-The-Wall/master/11329)**
 * Pink Floyd - [Wish You Were Here](https://www.discogs.com/Pink-Floyd-Wish-You-Were-Here/master/11703)
 * Portugal. The Man - [Evil Friends](https://www.discogs.com/Portugal-The-Man-Evil-Friends/master/569820)
