@@ -2,7 +2,7 @@
 layout: projects
 ---
 
-#### [Home](/) | Projects | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | Projects | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
 
 # Personal Projects
 
@@ -66,4 +66,4 @@ Demo on [YouTube](https://www.youtube.com/watch?v=Hgp11t09ssc).
 
 ---
 
-#### [Home](/) | Projects | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | Projects | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)

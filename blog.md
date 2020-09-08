@@ -2,7 +2,7 @@
 layout: blog
 ---
 
-#### [Home](/) | [Projects](/projects) | Blog | [Talks](/talks)
+#### [Home](/) | [Projects](/projects) | Blog | [Talks](/talks) | [Publications](/publications)
 
 # Blog
 

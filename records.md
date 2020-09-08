@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
 
 # Collection (new)
 
@@ -132,4 +132,4 @@ layout: default
 
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)

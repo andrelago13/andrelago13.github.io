@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Home | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### Home | [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
 
 Hello! My name is André Lago. I am a Software Engineer at Google Munich, where I work on building better privacy products for Google users across the world! Currently, I am the Tech Lead for [Activity Controls](https://myaccount.google.com/activitycontrols) and [Google Dashboard](https://myaccount.google.com/dashboard), two important privacy products that serve millions of Google users every single day.
 
@@ -72,4 +72,4 @@ Main languages learned on the Master's: Java, C++, Javascript, C#, C.
 
 ---
 
-#### Home | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### Home | [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)

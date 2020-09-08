@@ -2,13 +2,19 @@
 layout: default
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | Talks
+#### [Home](/) | [Projects](/projects) | [Blog](/blog) | Talks | [Publications](/publications)
 
 # Talks
 
 This is a collection of the talks I have hosted over the last few years. When I was younger I was very shy and afraid of public speaking, but as I grew I became more confident in it and now I truly enjoy the opportunities I have to speak to audiences. I have spoken about many topics, mostly focusing on career development and my daily work, and I look forward to having even more chances to do so in the future!
 
 ---
+
+## "Set yourself up for success and happiness" at [Job IT 2020](http://jobit.pt), Porto (May 27, 2020)
+
+* [Video](https://www.youtube.com/watch?v=Rp3U9pulQ5I)
+
+André has been passionate about technology for a very long time. He started his technology career by teaching himself how to code and went on to studying software engineering at the University of Porto. At Google, André works on the Privacy and Data Protection Office, a team dedicated to building solutions that help users understand privacy and manage their preferences. Previously, André also worked on Android OS features. In his work, André thrives for building the right things for the billions of users served by Google around the world.
 
 ## "The Past, Present and Future of Privacy" at [Talk a Bit](http://talkabit.org), Porto (Jan 11, 2020)
 
@@ -50,4 +56,4 @@ During this talk I explained what are some of the many advantages of doing inter
 
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | Talks
+#### [Home](/) | [Projects](/projects) | [Blog](/blog) | Talks | [Publications](/publications)
