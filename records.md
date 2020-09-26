@@ -11,6 +11,8 @@ layout: default
 * Capitão Fausto - [Capitão Fausto Têm Os Dias Contados](https://www.discogs.com/Capit%C3%A3o-Fausto-Capit%C3%A3o-Fausto-T%C3%AAm-Os-Dias-Contados/master/1046570) (added on Aug 29 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
 * Dave Grohl - [Play](https://www.discogs.com/Dave-Grohl-Play/master/1415493) (added on Dec 29 2019, Porto, Christmas)
 * Gorillaz - [Plastic Beach](https://www.discogs.com/Gorillaz-Plastic-Beach/master/231219) (added on Dec 24 2019, Porto, Christmas)
+* Gregory Porter - [All Rise Blue Ltd Ed](https://www.discogs.com/Gregory-Porter-All-Rise/release/15826596) (added on Sep 26 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
+* Guns N' Roses - [Appetite for Destruction](https://www.discogs.com/Guns-N-Roses-Appetite-For-Destruction/master/9467) (added on Sep 26 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
 * Jimi Hendrix - [Experience Hendrix - The Best Of Jimi Hendrix](https://www.discogs.com/Jimi-Hendrix-Experience-Hendrix-The-Best-Of-Jimi-Hendrix/master/75394) (added on Dec 29 2019, Porto, Christmas)
 * Jimi Hendrix - [Electric Ladyland](https://www.discogs.com/The-Jimi-Hendrix-Experience-Electric-Ladyland/release/399579) (added on June 20 2020, Porto)
 * Logic - [The Incredible True Story](https://www.discogs.com/Logic-The-Incredible-True-Story/master/965423) (added on Feb 16 2020, San Francisco, [Vinyl Solution Records](https://goo.gl/maps/wBKuwLo4mYhGpHDf7))
@@ -18,6 +20,7 @@ layout: default
 * Red Hot Chili Peppers - [Californication](https://www.discogs.com/Red-Hot-Chili-Peppers-Californication/master/42546) (added on Dec 24 2019, Porto, Christmas)
 * Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083) (added on Jan 25 2020, Munich, Optimal Records)
 * The Black Keys - [Let's Rock](https://www.discogs.com/The-Black-Keys-Lets-Rock/master/1569381) (added on Jul 18 2020, Porto, [Louie Louie](https://goo.gl/maps/AH2ghHEg5LW4b7DA8))
+* The Black Keys - [Let's Rock Limited Edition Holographic](https://www.discogs.com/The-Black-Keys-Lets-Rock/release/15834967) (added on Sep 4 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
 * Tyler, The Creator - [Igor](https://www.discogs.com/TylerCreator-Igor/master/1591877) (added on Feb 16 2020, San Francisco, [Vinyl Solution Records](https://goo.gl/maps/wBKuwLo4mYhGpHDf7))
 * Tyler, The Creator - [Scum Fuck Flower Boy](https://www.discogs.com/TylerCreator-Scum-Fuck-Flower-Boy/master/1212609) (added on Jul 18 2020, Porto, [Porto Calling](https://g.page/portocalling?share))
 
@@ -76,7 +79,6 @@ layout: default
 * Gorillaz - [Humanz](https://www.discogs.com/Gorillaz-Humanz/master/1170392)
 * [Guardians Of The Galaxy Awesome Mix Vol. 1](https://www.discogs.com/Various-Guardians-Of-The-Galaxy-Awesome-Mix-Vol-1/release/6149924)
 * [Guardians Of The Galaxy Awesome Mix Vol. 2](https://www.discogs.com/Various-Guardians-Of-The-Galaxy-Vol-2-Awesome-Mix-Vol-2/master/1172509)
-* Guns N' Roses - [Appetite For Destruction](https://www.discogs.com/Guns-N-Roses-Appetite-For-Destruction/master/9467)
 * Guns N' Roses - [Use Your Illusion I](https://www.discogs.com/Guns-N-Roses-Use-Your-Illusion-I/master/9536)
 * Guns N' Roses - [Use Your Illusion II](https://www.discogs.com/Guns-N-Roses-Use-Your-Illusion-II/master/9586)
 * **Jack White - [Lazaretto](https://www.discogs.com/Jack-White-Lazaretto/master/695372)**
