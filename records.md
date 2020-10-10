@@ -46,6 +46,7 @@ layout: default
 * Tchaikovsky - [Tchaikovsky In Phase Four](https://www.discogs.com/Tchaikovsky-The-London-Festival-Orchestra-Robert-Sharples-Tchaikovsky-In-Phase-Four/master/256317) (added on Oct 9 2020, Grandma's)
 * The Beatles - [Abbey Road](https://www.discogs.com/The-Beatles-Abbey-Road/master/24047) (added on Feb 8 2020, San Francisco, [Rooky Ricardo's Records](https://goo.gl/maps/F5wPXsYqwzTRkaMZ9))
 * The Beatles - [Sgt. Pepper's Lonely Hearts Club Band](https://www.discogs.com/The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band/master/23934) (added on Feb 8 2020, San Francisco, [Rooky Ricardo's Records](https://goo.gl/maps/F5wPXsYqwzTRkaMZ9))
+* The Beach Boys - [Collection](https://www.discogs.com/The-Beach-Boys-Collection/master/645004) (added on Oct 9 2020, Grandma's)
 * The Cure - [Kiss Me Kiss Me Kiss Me](https://www.discogs.com/The-Cure-Kiss-Me-Kiss-Me-Kiss-Me/master/22500) (added on Oct 9 2020, Grandma's)
 * The Cure - [Mixed Up](https://www.discogs.com/The-Cure-Mixed-Up/master/31938) (added on Oct 9 2020, Grandma's)
 * [Top Gun (Original Motion Picture Soundtrack)](https://www.discogs.com/Various-Top-Gun-Original-Motion-Picture-Soundtrack/master/77439) (added on Jan 3 2020, Grandma's)
