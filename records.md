@@ -26,20 +26,42 @@ layout: default
 
 ## Collection (2nd hand)
 
+### LP's
+
+* Depeche Mode - [101](https://www.discogs.com/Depeche-Mode-101/master/2658) (added on Oct 9 2020, Grandma's)
 * Dire Straits - [Money For Nothing](https://www.discogs.com/Dire-Straits-Money-For-Nothing/master/23822) (added on Jan 3 2020, Grandma's)
 * Elton John - [The Very Best Of Elton John](https://www.discogs.com/Elton-John-The-Very-Best-Of-Elton-John/master/97842) (added on Jan 3 2020, Grandma's)
+* GNR - [In Vivo](https://www.discogs.com/GNR-In-Vivo/master/20382) (added on Oct 9 2020, Grandma's)
 * GNR - [Rock In Rio Douro](https://www.discogs.com/GNR-Rock-In-Rio-Douro/master/202085) (added on Jan 3 2020, Grandma's)
+* [Grease (The Original Soundtrack From The Motion Picture)](https://www.discogs.com/Various-Grease-The-Original-Soundtrack-From-The-Motion-Picture/master/97901) (added on Oct 9 2020, Grandma's)
 * John Lennon - [Imagine (Music From The Motion Picture)](https://www.discogs.com/John-Lennon-Imagine-John-Lennon-Music-From-The-Motion-Picture/master/73048) (added on Jan 3 2020, Grandma's)
+* Kool & The Gang - The Hits of Kool & The Gang (added on Oct 9 2020, Grandma's)
 * Ludwig van Beethoven - [Symphonie Nr. 9](https://www.discogs.com/Ludwig-van-Beethoven-Herbert-von-Karajan-Berliner-Philharmoniker-Anna-Tomowa-Sintow-Agnes-Baltsa-Pet/master/280617) (added on Jan 3 2020, Grandma's)
 * Pink Floyd - [Delicate Sound Of Thunder](https://www.discogs.com/Pink-Floyd-Delicate-Sound-Of-Thunder/master/406702) (added on Jan 3 2020, Grandma's)
 * R.E.M. - [Out Of Time](https://www.discogs.com/REM-Out-Of-Time/master/44148) (added on Jan 3 2020, Grandma's)
+* Ravel - [Bolero / La Valse / Alborada Del Gracioso / Daphnis Et Chloe Suite No. 2](https://www.discogs.com/Ravel-Bernstein-conducting-the-New-York-Philharmonic-and-the-Orchestre-National-De-France-Bolero-La-/master/286322) (added on Oct 9 2020, Grandma's)
 * Resistência - [Palavras Ao Vento](https://www.discogs.com/Resist%C3%AAncia-Palavras-Ao-Vento/master/235236) (added on Jan 3 2020, Grandma's)
 * Rick Astley - [Whenever You Need Somebody](https://www.discogs.com/Rick-Astley-Whenever-You-Need-Somebody/master/96568) (added on Jan 3 2020, Grandma's)
 * Supertramp - [The Very Best Of Supertramp](https://www.discogs.com/Supertramp-The-Very-Best-Of-Supertramp/release/389572) (added on Jan 3 2020, Grandma's)
+* Tchaikovsky - [Tchaikovsky In Phase Four](https://www.discogs.com/Tchaikovsky-The-London-Festival-Orchestra-Robert-Sharples-Tchaikovsky-In-Phase-Four/master/256317) (added on Oct 9 2020, Grandma's)
 * The Beatles - [Abbey Road](https://www.discogs.com/The-Beatles-Abbey-Road/master/24047) (added on Feb 8 2020, San Francisco, [Rooky Ricardo's Records](https://goo.gl/maps/F5wPXsYqwzTRkaMZ9))
 * The Beatles - [Sgt. Pepper's Lonely Hearts Club Band](https://www.discogs.com/The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band/master/23934) (added on Feb 8 2020, San Francisco, [Rooky Ricardo's Records](https://goo.gl/maps/F5wPXsYqwzTRkaMZ9))
+* The Cure - [Kiss Me Kiss Me Kiss Me](https://www.discogs.com/The-Cure-Kiss-Me-Kiss-Me-Kiss-Me/master/22500) (added on Oct 9 2020, Grandma's)
+* The Cure - [Mixed Up](https://www.discogs.com/The-Cure-Mixed-Up/master/31938) (added on Oct 9 2020, Grandma's)
 * [Top Gun (Original Motion Picture Soundtrack)](https://www.discogs.com/Various-Top-Gun-Original-Motion-Picture-Soundtrack/master/77439) (added on Jan 3 2020, Grandma's)
 * U2 - [Rattle And Hum](https://www.discogs.com/U2-Rattle-And-Hum/master/62619) (added on Jan 3 2020, Grandma's)
+* Waldemiro Lemke & Orquestra - [Valsas De Strauss](https://www.discogs.com/Waldemiro-Lemke-Orquestra-Valsas-De-Strauss/release/12223322) (added on Oct 9 2020, Grandma's)
+
+### Singles
+
+* ABBA - [The Winner Takes It All / Elaine](https://www.discogs.com/ABBA-The-Winner-Takes-It-All-Elaine/master/50029) (added on Oct 9 2020, Grandma's)
+* Badfinger - [Apple Of My Eye](https://www.discogs.com/Badfinger-Apple-Of-My-Eye/master/124244) (added on Oct 9 2020, Grandma's)
+* Michael Jackson - [Billie Jean](https://www.discogs.com/Michael-Jackson-Billie-Jean/master/14781) (added on Oct 9 2020, Grandma's)
+* Pink Floyd - [Another Brick In The Wall (Part II)](https://www.discogs.com/Pink-Floyd-Another-Brick-In-The-Wall-Part-II/release/510358) (added on Oct 10 2020, Porto, [Louie Louie](https://goo.gl/maps/AH2ghHEg5LW4b7DA8))
+* Rick Astley - [Never Gonna Give You Up](https://www.discogs.com/Rick-Astley-Never-Gonna-Give-You-Up/master/96559) (added on Oct 9 2020, Grandma's)
+* Rui Veloso - [Não Há Estrelas No Céu](https://www.discogs.com/Rui-Veloso-N%C3%A3o-H%C3%A1-Estrelas-No-C%C3%A9u/release/3226897) (added on Oct 9 2020, Grandma's)
+* Scorpions - [Still Loving You](https://www.discogs.com/Scorpions-Still-Loving-You/master/29451) (added on Oct 9 2020, Grandma's)
+* Xutos & Pontapés - [7º Single](https://www.discogs.com/Xutos-Pontap%C3%A9s-7%C2%BA-Single/release/1538456) (added on Oct 9 2020, Grandma's)
 
 # Wishlist (alphabetically sorted)
 
