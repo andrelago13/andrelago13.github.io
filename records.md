@@ -7,6 +7,7 @@ layout: default
 # Collection (new)
 
 * Arctic Monkeys - [Tranquility Base Hotel & Casino](https://www.discogs.com/Arctic-Monkeys-Tranquility-Base-Hotel-Casino/release/11975894) (added on Dec 24 2019, Porto, Christmas)
+* Arctic Monkeys - [Favourite Worst Nightmare](https://www.discogs.com/Arctic-Monkeys-Favourite-Worst-Nightmare/master/69774) (added on Oct 24 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
 * B.B. King & Eric Clapton - [Riding With The King](https://www.discogs.com/BB-King-Eric-Clapton-Riding-With-The-King/master/85205) (added on Dec 29 2019, Porto, Christmas)
 * Capitão Fausto - [Capitão Fausto Têm Os Dias Contados](https://www.discogs.com/Capit%C3%A3o-Fausto-Capit%C3%A3o-Fausto-T%C3%AAm-Os-Dias-Contados/master/1046570) (added on Aug 29 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
 * Dave Grohl - [Play](https://www.discogs.com/Dave-Grohl-Play/master/1415493) (added on Dec 29 2019, Porto, Christmas)
@@ -19,6 +20,7 @@ layout: default
 * Pink Floyd - [The Dark Side Of The Moon](https://www.discogs.com/Pink-Floyd-The-Dark-Side-Of-The-Moon/master/10362) (added on Aug 29 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
 * Red Hot Chili Peppers - [Californication](https://www.discogs.com/Red-Hot-Chili-Peppers-Californication/master/42546) (added on Dec 24 2019, Porto, Christmas)
 * Tame Impala - [Currents](https://www.discogs.com/Tame-Impala-Currents/master/861083) (added on Jan 25 2020, Munich, Optimal Records)
+* The Black Keys - [Brothers](https://www.discogs.com/The-Black-Keys-Brothers/master/248620) (added on Oct 24 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
 * The Black Keys - [Let's Rock](https://www.discogs.com/The-Black-Keys-Lets-Rock/master/1569381) (added on Jul 18 2020, Porto, [Louie Louie](https://goo.gl/maps/AH2ghHEg5LW4b7DA8))
 * The Black Keys - [Let's Rock Limited Edition Holographic](https://www.discogs.com/The-Black-Keys-Lets-Rock/release/15834967) (added on Sep 4 2020, Porto, [Tubitek](https://goo.gl/maps/NDAsdpae4gkNGo978))
 * Tyler, The Creator - [Igor](https://www.discogs.com/TylerCreator-Igor/master/1591877) (added on Feb 16 2020, San Francisco, [Vinyl Solution Records](https://goo.gl/maps/wBKuwLo4mYhGpHDf7))
@@ -74,7 +76,6 @@ layout: default
 * Anderson .Paak - [Oxnard](https://www.discogs.com/Anderson-Paak-Oxnard/master/1486688)
 * Anderson .Paak - [Ventura](https://www.discogs.com/Anderson-Paak-Ventura/master/1532286)
 * Arctic Monkeys - [AM](https://www.discogs.com/Arctic-Monkeys-AM/master/593987)
-* Arctic Monkeys - [Favourite Worst Nightmare](https://www.discogs.com/Arctic-Monkeys-Favourite-Worst-Nightmare-instrumentals/master/69774)
 * Arctic Monkeys - [Humbug](https://www.discogs.com/Arctic-Monkeys-Humbug/master/172482)
 * **Arctic Monkeys - [Whatever People Say I Am, That's What I'm Not](https://www.discogs.com/Arctic-Monkeys-Title-TBC/master/76279)**
 * Black Sabbath - [Paranoid](https://www.discogs.com/Black-Sabbath-Paranoid/master/302)
@@ -143,8 +144,7 @@ layout: default
 * The Beatles - [1](https://www.discogs.com/The-Beatles-1/master/447254)
 * The Beatles - [Help!](https://www.discogs.com/The-Beatles-Help/master/45895)
 * The Black Keys - [Attack & Release](https://www.discogs.com/The-Black-Keys-Attack-Release/master/38811)
-* **The Black Keys - [Brothers](https://www.discogs.com/The-Black-Keys-Brothers/master/248620)**
-* The Black Keys - [El Camino](https://www.discogs.com/The-Black-Keys-El-Camino/master/390739)
+* **The Black Keys - [El Camino](https://www.discogs.com/The-Black-Keys-El-Camino/master/390739)**
 * The Black Keys - [Thickfreakness](https://www.discogs.com/The-Black-Keys-Thickfreakness/master/79402)
 * The Clash - [London Calling](https://www.discogs.com/The-Clash-London-Calling/master/19382)
 * Tool - [Fear Inoculum](https://www.discogs.com/Tool-Fear-Inoculum/master/1598307)
