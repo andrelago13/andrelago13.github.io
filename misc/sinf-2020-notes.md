@@ -10,6 +10,10 @@ This is a collection of the notes for the talk I gave at [SINF](https://sinf.pt)
 
 ---
 
+## Feature flags
+
+* Wikipedia page on feature toggles: [link](https://en.wikipedia.org/wiki/Feature_toggle)
+
 ## Internationalization
 
 * Material Design guidelines on right-to-left UIs: [link](https://material.io/design/usability/bidirectionality.html#mirroring-layout)
