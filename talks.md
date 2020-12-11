@@ -10,23 +10,37 @@ This is a collection of the talks I have hosted over the last few years. When I 
 
 ---
 
+## "I found an internship abroad and look where that got me." at [SINF 2020](https://www.sinf.pt/), Porto (Nov 10, 2020)
+
+* [Video](https://www.youtube.com/watch?v=sia275F5ggU) (PT only)
+
+Debate forum along with current and former employees/interns of Google, Amazon, Jetbrains and others.
+
+*Abstract*: With the goal of demistifying international internships, we invited alumni of MIEIC to share their experience and answer any questions students might have about the process. Many aspects of the process will be discussed, from the application process, to the experience itself, going through the challenges that were faced, dealing with people from all around the world and a comparison to a national internship.
+
+## "Coding in the wild: what it's like to work in the real world?" at [SINF 2020](https://www.sinf.pt/), Porto (Nov 10, 2020)
+
+* [Video](https://www.youtube.com/watch?v=Ub8DB5gVoqQ) (PT only)
+
+*Abstract*: FEUP provides its students projects of a pretty diverse nature, both from the technology and the skills required. However, have you ever wondered how different it is to work in the real world where the projects have a real impact in the world? In this talk we'll cover some of the main differences between the academic and "professional" work, including some tips on how you can prepare for this transition.
+
 ## "Set yourself up for success and happiness" at [Job IT 2020](http://jobit.pt), Porto (May 27, 2020)
 
-* [Video](https://www.youtube.com/watch?v=Rp3U9pulQ5I)
+* [Video](https://www.youtube.com/watch?v=Rp3U9pulQ5I) (PT only)
 
-André has been passionate about technology for a very long time. He started his technology career by teaching himself how to code and went on to studying software engineering at the University of Porto. At Google, André works on the Privacy and Data Protection Office, a team dedicated to building solutions that help users understand privacy and manage their preferences. Previously, André also worked on Android OS features. In his work, André thrives for building the right things for the billions of users served by Google around the world.
+*Abstract*: André has been passionate about technology for a very long time. He started his technology career by teaching himself how to code and went on to studying software engineering at the University of Porto. At Google, André works on the Privacy and Data Protection Office, a team dedicated to building solutions that help users understand privacy and manage their preferences. Previously, André also worked on Android OS features. In his work, André thrives for building the right things for the billions of users served by Google around the world.
 
 ## "The Past, Present and Future of Privacy" at [Talk a Bit](http://talkabit.org), Porto (Jan 11, 2020)
 
-Privacy is a huge area of work at Google, and it plays a crucial role in the way we design and develop our products. In this talk I went through a little bit of the history of privacy and what led to it becoming such an important topic, moving to some of the ideas around the present and future of privacy. This included topics like the [Data Transfer Project](https://datatransferproject.dev/) and [Differential Privacy](https://github.com/google/differential-privacy).
+*Abstract*: Privacy is a huge area of work at Google, and it plays a crucial role in the way we design and develop our products. In this talk I went through a little bit of the history of privacy and what led to it becoming such an important topic, moving to some of the ideas around the present and future of privacy. This included topics like the [Data Transfer Project](https://datatransferproject.dev/) and [Differential Privacy](https://github.com/google/differential-privacy).
 
 ## "Building Privacy for the User" at [European Cyber Security Month](https://www.meetup.com/gdg-munich/events/264756824/), Munich (Oct 21, 2019)
 
-Building efficient privacy tools is essential in order to meet the user's expectations and provide them with control over their data. Because of this, it's extremely important to design privacy products in a way that fulfills the needs of the users and provides them positive value. In this talk we'll go through the history behind some of Google's main privacy products, describing some of the processes through which we design and develop them.
+*Abstract*: Building efficient privacy tools is essential in order to meet the user's expectations and provide them with control over their data. Because of this, it's extremely important to design privacy products in a way that fulfills the needs of the users and provides them positive value. In this talk we'll go through the history behind some of Google's main privacy products, describing some of the processes through which we design and develop them.
 
 ## "Life of a Software Engineer at Google" at [Job IT](http://jobit.pt/), Porto (Apr 24, 2019)
 
-Learn about what life is like as a Software Engineer at Google: not just the food, fun and other perks, but most importantly what are the practices that make Google's products great and that help us improve as engineers!
+*Abstract*: Learn about what life is like as a Software Engineer at Google: not just the food, fun and other perks, but most importantly what are the practices that make Google's products great and that help us improve as engineers!
 
 ## MsC thesis: "Conversational Bot for Complex Smart Space Management", Porto (Jul 2018)
 
