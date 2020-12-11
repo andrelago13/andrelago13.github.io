@@ -10,7 +10,7 @@ Lago, André Sousa, João Pedro Dias, and Hugo Sereno Ferreira. ["Conversational
 
 ### (MsC thesis) Exploring Complex Event Management in Smart-Spaces through a Conversation-Based Approach (July 2020)
 
-Lago, André Sousa. ["Exploring Complex Event Management in Smart-Spaces through a Conversation-Based Approach."](https://repositorio-aberto.up.pt/bitstream/10216/114084/2/277662.pdf) (2018).
+Lago, André Sousa. ["Exploring Complex Event Management in Smart-Spaces through a Conversation-Based Approach."](https://hdl.handle.net/10216/114084) (2018).
 
 ### Conversation-Based Complex Event Management in Smart-Spaces (June 2018)
 
