@@ -102,6 +102,7 @@ layout: default
 * Foo Fighters - [Wasting Light](https://www.discogs.com/Foo-Fighters-Wasting-Light-Deluxe-Pre-Order-Package/master/326257)
 * Gorillaz - [Gorillaz](https://www.discogs.com/Gorillaz-Gorillaz/master/57988)
 * Gorillaz - [Humanz](https://www.discogs.com/Gorillaz-Humanz/master/1170392)
+* **Gorillaz - [Song Machine Season One](https://www.discogs.com/Gorillaz-Song-Machine-Season-One/master/1825713)**
 * [Guardians Of The Galaxy Awesome Mix Vol. 1](https://www.discogs.com/Various-Guardians-Of-The-Galaxy-Awesome-Mix-Vol-1/release/6149924)
 * [Guardians Of The Galaxy Awesome Mix Vol. 2](https://www.discogs.com/Various-Guardians-Of-The-Galaxy-Vol-2-Awesome-Mix-Vol-2/master/1172509)
 * Guns N' Roses - [Use Your Illusion I](https://www.discogs.com/Guns-N-Roses-Use-Your-Illusion-I/master/9536)
