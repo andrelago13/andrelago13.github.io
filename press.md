@@ -28,7 +28,7 @@ Apart from technology, André enjoys music, basketball and surfing.
 
 O André é Software Engineer e Tech Lead na Google, em Munique na Alemanha. A equipa do André desenvolve produtos externos de privacidade essenciais na Google, que todos os dias ajudam milhões de utilizadores a gerir a sua privacidade online.
 
-O André é apaixonado por tecnologia desde criança e adora aprender coisas novas por conta própria. Desde que começou a estudar na Universidade do Porto, ele trabalhou em projetos diversos desde assistantes inteligentes para gerir sistemas IoT a jogos 3D. O André também participou em vários projetos não técnicos, tais como [ser o CEO de uma empresa de 50 estudantes](/blog/tales-of-a-ceo) e ser [o Conference Chair](/blog/managing-a-tech-conference) de uma [conferência](https://talkabit.org) com mais de 500 participantes.
+O André é apaixonado por tecnologia desde criança e adora aprender coisas novas por conta própria. Desde que começou a estudar na Universidade do Porto, ele trabalhou em projetos diversos, desde assistentes inteligentes para gerir sistemas IoT a jogos 3D. O André também participou em vários projetos não técnicos, tais como [ser o CEO de uma empresa de 50 estudantes](/blog/tales-of-a-ceo) e ser [o Conference Chair](/blog/managing-a-tech-conference) de uma [conferência](https://talkabit.org) com mais de 500 participantes.
 
 Para além de tecnologia, o André gosta de música, basquetebol e surf.
 
