@@ -9,12 +9,12 @@ layout: default
 This is a collection of resources to be used for talks or other events I attend.
 
 - Profile photos
-  - [Photo 1](/assets/images/press/photos_1.jpg)
-  - [Photo 2](/assets/images/press/photos_2.JPG)
-  - [Photo 3](/assets/images/press/photos_3.jpg)
-  - [Photo 4](/assets/images/press/photos_4.jpg)
-  - [Photo 5](/assets/images/press/photos_5.jpg)
-  - [Photo 6](/assets/images/press/photos_6.jpg)
+  - [Photo 1](/assets/images/press/photo_1.jpg)
+  - [Photo 2](/assets/images/press/photo_2.JPG)
+  - [Photo 3](/assets/images/press/photo_3.jpg)
+  - [Photo 4](/assets/images/press/photo_4.jpg)
+  - [Photo 5](/assets/images/press/photo_5.jpg)
+  - [Photo 6](/assets/images/press/photo_6.jpg)
 
 - Bio (En):
 
