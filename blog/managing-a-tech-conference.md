@@ -8,7 +8,7 @@ layout: blogpost
 
 ### November 30, 2017
 ### Tags: Work Experience
-### [<- Previous post](/blog/tales-of-a-ceo)
+### [<- Previous post](/blog/tales-of-a-ceo) | [Next post ->](/blog/goodbye-google)
 
 ![Talk A Bit](/assets/images/talkabit.png)
 
@@ -28,6 +28,6 @@ I hope to see you all in Talk A Bit, on January 20th 2018 at [FEUP](https://www.
 
 ### November 30, 2017
 ### Tags: Work Experience
-### [<- Previous post](/blog/tales-of-a-ceo)
+### [<- Previous post](/blog/tales-of-a-ceo) | [Next post ->](/blog/goodbye-google)
 
 #### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
