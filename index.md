@@ -4,7 +4,8 @@ layout: default
 
 #### Home | [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
 
-Hi! My name is André Lago. I am a Software Engineer and Tech Lead at Google Munich, where I lead a small team of talented engineers towards designing and building privacy products that help millions of our users every day!
+Hi! My name is André Lago. I am a Senior Software Engineer at Replai, a Porto-founded startup where we build the world's first first video-based creative insights platform that
+empowers brands to maximize the performance and engagement of their videos. Previously I was a Senior Software Engineer and Tech Lead at Google Munich, where I led a small team of talented engineers towards designing and building privacy products that help millions of our users every day!
 
 I'm deeply passionate for technology, helping people grow and designing and building products that improve people's lives. Also a big fan of basketball, music and surfing :)
 
@@ -16,17 +17,21 @@ You can reach me by [email](mailto:andrelago.eu@gmail.com) or check out my profi
 
 # Work experience
 
-## Google - Software Engineer (Tech Lead) - Munich, Germany (Oct 2018 - Present)
+## Replai - Senior Software Engineer - Porto, Portugal (Jul 2021 - Present)
+
+![Replai](/assets/images/replai-logo.png)
+
+As a Senior Software Engineer I'm building and leading a cross-functional team to use psychological analysis to allow creative teams to produce better videos. Sitting at the intersection of software engineering, product management and team leadership, I'm able to leverage my experience at one of the world's most successful former startups, Google, to build a team capable of delivering an outstanding product.
+
+## Google - Senior Software Engineer (Tech Lead) - Munich, Germany (Oct 2018 - Jul 2021)
 
 ![Google](/assets/images/google.png)
 
-I'm a member of the **Privacy and Data Protection Office**. Our team works on both internal infrastructure, user-facing products and even open-source libraries that aim to provide users with better privacy tools for the products they use.
+I was the **Tech Lead** for a small team of amazing engineers where we built user-facing privacy products that helped millions of people every day to manage their digital privacy. As a lead I not only provided significant technical contributions, but I also defined the team's technical roadmap, identified product priorities, set up cross-team collaboration initiatives and provided opportunities for other team members to grow their careers. I also drove high-level design of bigger technical projects that had multi-quarter implications for the team.
 
 For the majority of my time at the team, I've worked on user-facing privacy products such as [Google Dashboard](https://myaccount.google.com/dashboard), [Takeout](https://takeout.google.com), [Privacy Checkup](https://myaccount.google.com/privacycheckup), [Your Data](https://myaccount.google.com/yourdata/maps) and [MyActivity](https://myactivity.google.com).
 
-I'm the **Tech Lead** for a small team of amazing engineers, where we build most of the products I mentioned above. As a lead I not only provide significant technical contributions, but I also define the team's technical roadmap, identify product priorities, set up cross-team collaboration initiatives and provide opportunities for other team members to grow their careers. I also drive high-level design of bigger technical projects that have multi-quarter implications for the team.
-
-Most of my technical work has been around Web Development, using mostly Java, Javascript TypeScript and Go.
+I've done full-stack development using mostly Java, Javascript TypeScript and Go, including some work on testing and metrics pipelines.
 
 ## Google – Software Engineering Intern - London, UK (2016) and Mountain View, USA (2017)
 
