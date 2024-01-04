@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
 * Mountain View / San Francisco / San Diego / Los Angeles (28 Out - 11 Nov 2019)
 * Dublin (17-22 Set 2019)
@@ -16,4 +16,4 @@ layout: default
 
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks)

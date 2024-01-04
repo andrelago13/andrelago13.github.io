@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | Talks | [Publications](/publications)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | Talks | [Publications](/publications)
 
 # Talks
 
@@ -70,4 +70,4 @@ During this talk I explained what are some of the many advantages of doing inter
 
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | Talks | [Publications](/publications)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | Talks | [Publications](/publications)

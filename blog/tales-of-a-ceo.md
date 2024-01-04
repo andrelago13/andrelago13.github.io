@@ -2,7 +2,7 @@
 layout: blogpost
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
 # Tales of a "CEO"
 
@@ -76,4 +76,4 @@ With this experience I improved my gut feeling. I learned some things that work,
 ### Tags: Work Experience
 ### [<- Previous post](/blog/my-work-at-google) | [Next post ->](/blog/managing-a-tech-conference)
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks)

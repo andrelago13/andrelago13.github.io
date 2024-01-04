@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
 
 # "Press kit"
 
@@ -34,4 +34,4 @@ This is a collection of resources to be used for talks or other events I attend.
 
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | Talks | [Publications](/publications)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | Talks | [Publications](/publications)

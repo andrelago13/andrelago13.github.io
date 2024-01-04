@@ -2,7 +2,7 @@
 layout: blogpost
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
 # Goodbye Google, thanks for the ride!
 
@@ -32,4 +32,4 @@ So long Google, thanks for all the memories, fun and obviously the delicious foo
 ### Tags: Work Experience
 ### [<- Previous post](/blog/managing-a-tech-conference)
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks)

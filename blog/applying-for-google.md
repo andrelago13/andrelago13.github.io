@@ -2,7 +2,7 @@
 layout: blogpost
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
 # Applying for Google
 
@@ -53,4 +53,4 @@ I’ll write about the internship experience soon, but I end this post by highly
 ### Tags: Work Experience
 ### [<- Previous post](/blog/first-blog-post) | [Next post ->](/blog/my-work-at-google)
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks)

@@ -2,7 +2,7 @@
 layout: blogpost
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
 
 # My work at Google
 
@@ -50,4 +50,4 @@ Stay tuned to learn about the other features I developed during the internship ð
 ### Tags: Work Experience
 ### [<- Previous post](/blog/applying-for-google) | [Next post ->](/blog/tales-of-a-ceo)
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks)

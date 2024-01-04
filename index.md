@@ -2,28 +2,37 @@
 layout: default
 ---
 
-#### Home | [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
+#### Home | [Freelancing](/freelancing) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
 
-Hi! My name is André Lago. I am a Senior Software Engineer at Replai, a Porto-founded startup where we build the world's first first video-based creative insights platform that
-empowers brands to maximize the performance and engagement of their videos. Previously I was a Senior Software Engineer and Tech Lead at Google Munich, where I led a small team of talented engineers towards designing and building privacy products that help millions of our users every day!
+Welcome! I'm André, I'm based in Porto and I've worked for a few years as a Software Engineer across a wide range of roles and projects, from large-scale privacy applications at Google to a data processing pipeline and public API at Replai, a Seed-stage startup based in Porto. I love building cool things with technology so I'm always eager to learn and experiment with new tools.
 
-I'm deeply passionate for technology, helping people grow and designing and building products that improve people's lives. Also a big fan of basketball, music and surfing :)
+I'm currently working as a freelancer, preferrably on medium to large scale projects with a few weeks/months of span. If you're interested in working with me, reach out on [LinkedIn](https://www.linkedin.com/in/andre-lago/)! You can also check out my [GitHub profile](https://github.com/andrelago13).
 
-This is my personal website and you can read below to learn more about my experience and journey. Feel free to check out [my block](/blog) to learn about other things I do!
-
-You can reach me by [email](mailto:andrelago.eu@gmail.com) or check out my profiles on [LinkedIn](https://www.linkedin.com/in/andre-lago/) and [GitHub](https://github.com/andrelago13).
+This website is a summary of the projects I've worked on and work experience I have, feel free to check it out :)
 
 ---
 
 # Work experience
 
-## Replai - Senior Software Engineer - Porto, Portugal (Jul 2021 - Present)
+## Replai - Senior Software Engineer & Tech Lead - Porto, Portugal (Jul 2021 - Oct 2023; part-time since then)
 
 ![Replai](/assets/images/replai-logo.png)
 
-As a Senior Software Engineer I'm building and leading a cross-functional team to use psychological analysis to allow creative teams to produce better videos. Sitting at the intersection of software engineering, product management and team leadership, I'm able to leverage my experience at one of the world's most successful former startups, Google, to build a team capable of delivering an outstanding product.
+As just the 3rd member of the engineering team I've had a significant impact in scaling our engineering team, processes and technology over time. My key contributions include:
 
-## Google - Senior Software Engineer (Tech Lead) - Munich, Germany (Oct 2018 - Jul 2021)
+- leading the data infrastructure team, responsible for:
+  - an automated data processing pipeline for fetching and processing data from 10+ external providers, built with fault-tolerance, monitoring and scaling as guiding principles [Node.js; Typescript; AWS; DynamoDB]
+  - an external API used by our customers as a companion to the Replai platform [Node.js; Typescript]
+  - an internal database querying library that enabled other teams to write fast database queries easily without worrying about details of the data model [Node.js; Typescript; PostgreSQL]
+  - maintaining and improving performance of our backend systems
+  - occasional contributions to the Replai frontend platform [React.js; Typescript]
+- defining some of the core processes that enabled us to grow from a 3 person to a 15+ person engineering team, including:
+  - coding principles/guidelines and CI/CD automation
+  - restructuring of Replai's internal code to maximize developer productivity
+
+I've left Replai as a full-time member at the end of 2023 but I still work with the company as a freelancer on a few projects.
+
+## Google - Senior Software Engineer & Tech Lead - Munich, Germany (Oct 2018 - Jul 2021)
 
 ![Google](/assets/images/google.png)
 

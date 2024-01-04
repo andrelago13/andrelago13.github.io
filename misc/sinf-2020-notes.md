@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
 
 # SINF 2020 Notes
 
@@ -24,4 +24,4 @@ This is a collection of the notes for the talk I gave at [SINF](https://sinf.pt)
 
 ---
 
-#### [Home](/) | [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
+#### [Home](/) | [Freelancing](/freelancing) |  [Projects](/projects) | [Blog](/blog) | [Talks](/talks) | [Publications](/publications)
