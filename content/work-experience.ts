@@ -21,7 +21,7 @@ export const workExperience: WorkExperience[] = [
     title: "Engineering Consultant",
     description: "TODO",
     date: "Jan 2024 - Present",
-    tags: ["AI"],
+    tags: ["React", "Node.js", "TypeScript", "Python", "FastAPI", "Azure", "MongoDB", "PostgreSQL", "CI/CD", "DevOps"],
   },
   {
     company: "Replai",

@@ -83,8 +83,8 @@ export default function HomePage() {
             Career Journey
           </h2>
           <div className="space-y-8">
-            {workExperience.map((entry) => (
-              <div className="relative pl-8 border-l-2 border-muted">
+            {workExperience.map((entry, index) => (
+              <div key={index} className="relative pl-8 border-l-2 border-muted">
                 <div className="absolute -left-2 top-0 h-4 w-4 rounded-full bg-primary"></div>
                 <div className="space-y-2">
                   <div className="flex items-center gap-2 text-sm text-muted-foreground">
