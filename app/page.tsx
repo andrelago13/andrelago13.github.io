@@ -91,8 +91,27 @@ export default function HomePage() {
                     <Calendar className="h-4 w-4" />
                     {entry.date}
                   </div>
-                  <h3 className="text-xl font-semibold">{entry.title}</h3>
-                  <p className="text-muted-foreground">{entry.company}</p>
+                  <div className="flex items-center justify-between">
+                    <div>
+                      <h3 className="text-xl font-semibold">{entry.title}</h3>
+                      <p className="text-muted-foreground">
+                        {entry.companyUrl ? (
+                          <Link href={entry.companyUrl} target="_blank">{entry.company}</Link>
+                        ) : (
+                          entry.company
+                        )}
+                      </p>
+                    </div>
+                    {entry.logo && (
+                      <div className="flex-shrink-0 ml-4">
+                        <img
+                          src={entry.logo}
+                          alt={`${entry.company} logo`}
+                          className="h-16 w-16 object-contain"
+                        />
+                      </div>
+                    )}
+                  </div>
                   <p className="text-sm">
                     {entry.description}
                   </p>
