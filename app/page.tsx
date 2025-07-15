@@ -8,18 +8,19 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
+import { projects } from "@/content/projects";
 import { workExperience } from "@/content/work-experience";
 import { Github, Linkedin, Mail, ExternalLink, Calendar } from "lucide-react";
 import Link from "next/link";
 
 export default function HomePage() {
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background justify-items-center items-center">
       {/* Navigation */}
       <nav className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
         <div className="container flex h-14 items-center">
           <div className="mr-4 flex">
-            <Link href="/" className="mr-6 flex items-center space-x-2">
+            <Link href="/" className="mr-6 flex items-center space-x-2 pl-6">
               <span className="font-bold">André Lago</span>
             </Link>
           </div>
@@ -135,108 +136,36 @@ export default function HomePage() {
       <section id="projects" className="container py-24">
         <div className="mx-auto max-w-5xl">
           <h2 className="text-3xl font-bold tracking-tight mb-12">
-            Key Projects
+            Highlighted Projects
           </h2>
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-            <Card>
+            {projects.map((project, index) => (<Card key={index}>
               <CardHeader>
                 <CardTitle className="flex items-center justify-between">
-                  E-Commerce Platform
+                  {project.name}
                   <Button variant="ghost" size="sm" asChild>
-                    <Link href="https://github.com" target="_blank">
+                    <Link href={project.url} target="_blank">
                       <ExternalLink className="h-4 w-4" />
                     </Link>
                   </Button>
                 </CardTitle>
                 <CardDescription>
-                  Full-stack e-commerce solution with payment integration
+                  {project.tagline}
                 </CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-sm text-muted-foreground mb-4">
-                  Built a complete e-commerce platform handling 1000+ daily
-                  transactions with Stripe integration and real-time inventory
-                  management.
+                  {project.description}
                 </p>
                 <div className="flex flex-wrap gap-1">
-                  <Badge variant="outline" className="text-xs">
-                    Next.js
-                  </Badge>
-                  <Badge variant="outline" className="text-xs">
-                    Stripe
-                  </Badge>
-                  <Badge variant="outline" className="text-xs">
-                    MongoDB
-                  </Badge>
+                  {project.tags?.map((tag) => (
+                    <Badge variant="outline" className="text-xs" key={tag}>
+                      {tag}
+                    </Badge>
+                  ))}
                 </div>
               </CardContent>
-            </Card>
-
-            <Card>
-              <CardHeader>
-                <CardTitle className="flex items-center justify-between">
-                  Task Management App
-                  <Button variant="ghost" size="sm" asChild>
-                    <Link href="https://github.com" target="_blank">
-                      <ExternalLink className="h-4 w-4" />
-                    </Link>
-                  </Button>
-                </CardTitle>
-                <CardDescription>
-                  Collaborative project management tool
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-sm text-muted-foreground mb-4">
-                  Real-time collaboration tool with drag-and-drop interface,
-                  team chat, and advanced reporting features.
-                </p>
-                <div className="flex flex-wrap gap-1">
-                  <Badge variant="outline" className="text-xs">
-                    React
-                  </Badge>
-                  <Badge variant="outline" className="text-xs">
-                    Socket.io
-                  </Badge>
-                  <Badge variant="outline" className="text-xs">
-                    Express
-                  </Badge>
-                </div>
-              </CardContent>
-            </Card>
-
-            <Card>
-              <CardHeader>
-                <CardTitle className="flex items-center justify-between">
-                  Analytics Dashboard
-                  <Button variant="ghost" size="sm" asChild>
-                    <Link href="https://github.com" target="_blank">
-                      <ExternalLink className="h-4 w-4" />
-                    </Link>
-                  </Button>
-                </CardTitle>
-                <CardDescription>
-                  Data visualization and reporting platform
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-sm text-muted-foreground mb-4">
-                  Interactive dashboard processing millions of data points with
-                  custom charts and automated report generation.
-                </p>
-                <div className="flex flex-wrap gap-1">
-                  <Badge variant="outline" className="text-xs">
-                    D3.js
-                  </Badge>
-                  <Badge variant="outline" className="text-xs">
-                    Python
-                  </Badge>
-                  <Badge variant="outline" className="text-xs">
-                    FastAPI
-                  </Badge>
-                </div>
-              </CardContent>
-            </Card>
+            </Card>))}
           </div>
         </div>
       </section>
@@ -344,17 +273,12 @@ export default function HomePage() {
             </p>
             <div className="flex items-center gap-4">
               <Button variant="ghost" size="sm" asChild>
-                <Link href="mailto:john@example.com">
-                  <Mail className="h-4 w-4" />
-                </Link>
-              </Button>
-              <Button variant="ghost" size="sm" asChild>
-                <Link href="https://github.com" target="_blank">
+                <Link href="https://github.com/andrelago13" target="_blank">
                   <Github className="h-4 w-4" />
                 </Link>
               </Button>
               <Button variant="ghost" size="sm" asChild>
-                <Link href="https://linkedin.com" target="_blank">
+                <Link href="https://www.linkedin.com/in/andre-lago/" target="_blank">
                   <Linkedin className="h-4 w-4" />
                 </Link>
               </Button>
