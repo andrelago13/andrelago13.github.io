@@ -8,6 +8,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
+import { blogPosts } from "@/content/blog";
 import { projects } from "@/content/projects";
 import { workExperience } from "@/content/work-experience";
 import { Github, Linkedin, Mail, ExternalLink, Calendar } from "lucide-react";
@@ -35,7 +36,7 @@ export default function HomePage() {
               <Link href="#projects" className="hover:text-foreground/80">
                 Projects
               </Link>
-              <Link href="#blog" className="hover:text-foreground/80">
+              <Link href="/blog" className="hover:text-foreground/80">
                 Blog
               </Link>
             </nav>
@@ -173,27 +174,27 @@ export default function HomePage() {
       <Separator />
 
       {/* Blog Section */}
-      <section id="blog" className="container py-24">
+      <section className="container py-24">
         <div className="mx-auto max-w-4xl">
           <h2 className="text-3xl font-bold tracking-tight mb-12">
             Latest Blog Posts
           </h2>
           <div className="space-y-8">
-            <article className="group">
+            {blogPosts.map((post, index) => (
+              <>
+            <article key={index} className="group">
               <div className="space-y-3">
                 <div className="flex items-center gap-2 text-sm text-muted-foreground">
                   <Calendar className="h-4 w-4" />
-                  December 15, 2024
+                  {post.date}
                 </div>
                 <h3 className="text-xl font-semibold group-hover:text-primary transition-colors">
-                  <Link href="/blog/building-scalable-apis">
-                    Building Scalable APIs with Node.js and Express
+                  <Link href={`/blog/${post.title.toLowerCase()}`}>
+                    {post.title}
                   </Link>
                 </h3>
                 <p className="text-muted-foreground">
-                  Learn how to design and implement scalable REST APIs that can
-                  handle high traffic loads while maintaining performance and
-                  reliability.
+                  {post.contentMarkdown.substring(0, 100)}
                 </p>
                 <div className="flex gap-2">
                   <Badge variant="secondary">Node.js</Badge>
@@ -202,64 +203,9 @@ export default function HomePage() {
                 </div>
               </div>
             </article>
-
             <Separator />
-
-            <article className="group">
-              <div className="space-y-3">
-                <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                  <Calendar className="h-4 w-4" />
-                  November 28, 2024
-                </div>
-                <h3 className="text-xl font-semibold group-hover:text-primary transition-colors">
-                  <Link href="/blog/react-performance-optimization">
-                    React Performance Optimization Techniques
-                  </Link>
-                </h3>
-                <p className="text-muted-foreground">
-                  Discover advanced techniques to optimize React applications,
-                  including memoization, code splitting, and efficient state
-                  management.
-                </p>
-                <div className="flex gap-2">
-                  <Badge variant="secondary">React</Badge>
-                  <Badge variant="secondary">Performance</Badge>
-                  <Badge variant="secondary">Optimization</Badge>
-                </div>
-              </div>
-            </article>
-
-            <Separator />
-
-            <article className="group">
-              <div className="space-y-3">
-                <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                  <Calendar className="h-4 w-4" />
-                  November 10, 2024
-                </div>
-                <h3 className="text-xl font-semibold group-hover:text-primary transition-colors">
-                  <Link href="/blog/microservices-architecture">
-                    Microservices Architecture: Lessons Learned
-                  </Link>
-                </h3>
-                <p className="text-muted-foreground">
-                  My experience transitioning from monolithic to microservices
-                  architecture, including challenges faced and solutions
-                  implemented.
-                </p>
-                <div className="flex gap-2">
-                  <Badge variant="secondary">Microservices</Badge>
-                  <Badge variant="secondary">Architecture</Badge>
-                  <Badge variant="secondary">DevOps</Badge>
-                </div>
-              </div>
-            </article>
-
-            <div className="text-center pt-8">
-              <Button variant="outline" asChild>
-                <Link href="/blog">View All Posts</Link>
-              </Button>
-            </div>
+            </>
+            ))}
           </div>
         </div>
       </section>

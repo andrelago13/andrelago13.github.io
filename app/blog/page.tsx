@@ -3,50 +3,16 @@ import { Button } from "@/components/ui/button"
 import { Separator } from "@/components/ui/separator"
 import { Calendar, ArrowLeft } from "lucide-react"
 import Link from "next/link"
+import { blogPosts } from "@/content/blog"
 
 export default function BlogPage() {
-  const posts = [
-    {
-      id: "building-scalable-apis",
-      title: "Building Scalable APIs with Node.js and Express",
-      excerpt:
-        "Learn how to design and implement scalable REST APIs that can handle high traffic loads while maintaining performance and reliability.",
-      date: "December 15, 2024",
-      tags: ["Node.js", "API Design", "Performance"],
-    },
-    {
-      id: "react-performance-optimization",
-      title: "React Performance Optimization Techniques",
-      excerpt:
-        "Discover advanced techniques to optimize React applications, including memoization, code splitting, and efficient state management.",
-      date: "November 28, 2024",
-      tags: ["React", "Performance", "Optimization"],
-    },
-    {
-      id: "microservices-architecture",
-      title: "Microservices Architecture: Lessons Learned",
-      excerpt:
-        "My experience transitioning from monolithic to microservices architecture, including challenges faced and solutions implemented.",
-      date: "November 10, 2024",
-      tags: ["Microservices", "Architecture", "DevOps"],
-    },
-    {
-      id: "typescript-best-practices",
-      title: "TypeScript Best Practices for Large Applications",
-      excerpt:
-        "Essential TypeScript patterns and practices that help maintain code quality and developer productivity in large-scale applications.",
-      date: "October 22, 2024",
-      tags: ["TypeScript", "Best Practices", "Code Quality"],
-    },
-    {
-      id: "docker-development-workflow",
-      title: "Streamlining Development with Docker",
-      excerpt:
-        "How to set up an efficient development workflow using Docker containers for consistent environments across teams.",
-      date: "October 5, 2024",
-      tags: ["Docker", "DevOps", "Development"],
-    },
-  ]
+  const posts = blogPosts.map((post) => ({
+    id: post.title.toLowerCase(),
+    title: post.title,
+    excerpt: post.contentMarkdown.substring(0, 100),
+    date: post.date,
+    tags: post.tags,
+  }));
 
   return (
     <div className="min-h-screen bg-background">

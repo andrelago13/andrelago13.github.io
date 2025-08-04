@@ -1,186 +1,20 @@
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Separator } from "@/components/ui/separator"
+import { blogPosts } from "@/content/blog"
 import { Calendar, ArrowLeft } from "lucide-react"
 import Link from "next/link"
+import ReactMarkdown from "react-markdown"
+import remarkGfm from "remark-gfm"
 
 // This would typically come from a CMS or markdown files
 const getBlogPost = (slug: string) => {
-  const posts = {
-    "building-scalable-apis": {
-      title: "Building Scalable APIs with Node.js and Express",
-      date: "December 15, 2024",
-      tags: ["Node.js", "API Design", "Performance"],
-      content: `
-# Building Scalable APIs with Node.js and Express
-
-Building scalable APIs is crucial for modern web applications. In this post, I'll share my experience and best practices for creating robust, performant APIs using Node.js and Express.
-
-## Key Principles
-
-### 1. Design for Scale from Day One
-When building APIs, it's important to consider scalability from the beginning. This includes:
-- Proper database indexing
-- Efficient query patterns
-- Caching strategies
-- Rate limiting
-
-### 2. Use Middleware Effectively
-Express middleware is powerful for handling cross-cutting concerns:
-- Authentication and authorization
-- Request logging
-- Error handling
-- Input validation
-
-### 3. Implement Proper Error Handling
-Consistent error handling improves both developer experience and debugging:
-- Use structured error responses
-- Log errors appropriately
-- Handle async errors properly
-
-## Performance Optimization
-
-### Caching
-Implement caching at multiple levels:
-- Application-level caching with Redis
-- Database query caching
-- HTTP caching headers
-
-### Database Optimization
-- Use connection pooling
-- Implement proper indexing
-- Consider read replicas for heavy read workloads
-
-## Conclusion
-
-Building scalable APIs requires careful planning and attention to detail. By following these practices, you can create APIs that perform well under load and are maintainable over time.
-      `,
-    },
-    "react-performance-optimization": {
-      title: "React Performance Optimization Techniques",
-      date: "November 28, 2024",
-      tags: ["React", "Performance", "Optimization"],
-      content: `
-# React Performance Optimization Techniques
-
-React applications can become slow as they grow. Here are proven techniques to keep your React apps fast and responsive.
-
-## Memoization Techniques
-
-### React.memo
-Wrap components to prevent unnecessary re-renders:
-\`\`\`jsx
-const ExpensiveComponent = React.memo(({ data }) => {
-  return <div>{/* expensive rendering */}</div>
-})
-\`\`\`
-
-### useMemo and useCallback
-Optimize expensive calculations and function references:
-\`\`\`jsx
-const memoizedValue = useMemo(() => {
-  return expensiveCalculation(a, b)
-}, [a, b])
-
-const memoizedCallback = useCallback(() => {
-  doSomething(a, b)
-}, [a, b])
-\`\`\`
-
-## Code Splitting
-
-Use React.lazy for component-level code splitting:
-\`\`\`jsx
-const LazyComponent = React.lazy(() => import('./LazyComponent'))
-\`\`\`
-
-## Virtual Scrolling
-
-For large lists, implement virtual scrolling to render only visible items.
-
-## Conclusion
-
-Performance optimization is an ongoing process. Profile your app regularly and apply these techniques where they provide the most benefit.
-      `,
-    },
-    // Legacy blog posts
-    "my-work-at-google": {
-      title: "My Work at Google",
-      date: "March 15, 2023",
-      tags: ["Google", "Career", "Work Experience"],
-      content: `
-# My Work at Google
-
-This is a legacy blog post about my experience working at Google. The content would be loaded from the markdown file in the legacy folder.
-      `,
-    },
-    "tales-of-a-ceo": {
-      title: "Tales of a CEO",
-      date: "February 10, 2023",
-      tags: ["Leadership", "Startup", "CEO"],
-      content: `
-# Tales of a CEO
-
-This is a legacy blog post about my experience as a CEO. The content would be loaded from the markdown file in the legacy folder.
-      `,
-    },
-    "goodbye-google": {
-      title: "Goodbye Google",
-      date: "January 20, 2023",
-      tags: ["Google", "Career", "Transition"],
-      content: `
-# Goodbye Google
-
-This is a legacy blog post about leaving Google. The content would be loaded from the markdown file in the legacy folder.
-      `,
-    },
-    "applying-for-google": {
-      title: "Applying for Google",
-      date: "December 15, 2022",
-      tags: ["Google", "Career", "Interview"],
-      content: `
-# Applying for Google
-
-This is a legacy blog post about the Google application process. The content would be loaded from the markdown file in the legacy folder.
-      `,
-    },
-    "first-blog-post": {
-      title: "First Blog Post",
-      date: "November 1, 2022",
-      tags: ["Blog", "Introduction"],
-      content: `
-# First Blog Post
-
-This is my first blog post. The content would be loaded from the markdown file in the legacy folder.
-      `,
-    },
-    "managing-a-tech-conference": {
-      title: "Managing a Tech Conference",
-      date: "October 15, 2022",
-      tags: ["Conference", "Management", "Tech"],
-      content: `
-# Managing a Tech Conference
-
-This is a legacy blog post about managing a tech conference. The content would be loaded from the markdown file in the legacy folder.
-      `,
-    },
-  }
-
-  return posts[slug as keyof typeof posts] || null
+  return blogPosts.find((post) => post.title.toLowerCase() === slug.toLowerCase()) || null;
 }
 
 // Generate static params for all blog posts
 export function generateStaticParams() {
-  return [
-    { slug: "building-scalable-apis" },
-    { slug: "react-performance-optimization" },
-    { slug: "my-work-at-google" },
-    { slug: "tales-of-a-ceo" },
-    { slug: "goodbye-google" },
-    { slug: "applying-for-google" },
-    { slug: "first-blog-post" },
-    { slug: "managing-a-tech-conference" },
-  ]
+  return blogPosts.map((post) => ({ slug: post.title.toLowerCase() }));
 }
 
 export default function BlogPostPage({ params }: { params: { slug: string } }) {
@@ -260,10 +94,46 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
 
             <Separator className="mb-8" />
 
-            <div
-              className="prose prose-gray dark:prose-invert max-w-none"
-              dangerouslySetInnerHTML={{ __html: post.content.replace(/\n/g, "<br>") }}
-            />
+            <div className="prose prose-gray dark:prose-invert max-w-none">
+              <ReactMarkdown 
+                remarkPlugins={[remarkGfm]}
+                components={{
+                  // Custom styling for code blocks
+                  code: ({ node, className, children, ...props }: any) => {
+                    const match = /language-(\w+)/.exec(className || '')
+                    const isInline = !match
+                    return !isInline ? (
+                      <pre className="bg-gray-100 dark:bg-gray-800 p-4 rounded-lg overflow-x-auto">
+                        <code className={className} {...props}>
+                          {children}
+                        </code>
+                      </pre>
+                    ) : (
+                      <code className="bg-gray-100 dark:bg-gray-800 px-1 py-0.5 rounded text-sm" {...props}>
+                        {children}
+                      </code>
+                    )
+                  },
+                  // Custom styling for headings
+                  h1: ({ children }) => <h1 className="text-3xl font-bold mb-4 mt-8">{children}</h1>,
+                  h2: ({ children }) => <h2 className="text-2xl font-bold mb-3 mt-6">{children}</h2>,
+                  h3: ({ children }) => <h3 className="text-xl font-bold mb-2 mt-4">{children}</h3>,
+                  // Custom styling for lists
+                  ul: ({ children }) => <ul className="list-disc list-inside mb-4 space-y-1">{children}</ul>,
+                  ol: ({ children }) => <ol className="list-decimal list-inside mb-4 space-y-1">{children}</ol>,
+                  // Custom styling for paragraphs
+                  p: ({ children }) => <p className="mb-4 leading-relaxed">{children}</p>,
+                  // Custom styling for blockquotes
+                  blockquote: ({ children }) => (
+                    <blockquote className="border-l-4 border-gray-300 dark:border-gray-600 pl-4 italic my-4">
+                      {children}
+                    </blockquote>
+                  ),
+                }}
+              >
+                {post.contentMarkdown}
+              </ReactMarkdown>
+            </div>
           </article>
         </div>
       </div>
