@@ -137,7 +137,7 @@ export default function HomePage() {
       <Separator />
 
       {/* Projects Section */}
-      <section id="projects" className="container py-24">
+      {/* <section id="projects" className="container py-24">
         <div className="mx-auto max-w-5xl">
           <h2 className="text-3xl font-bold tracking-tight mb-12">
             Highlighted Projects
@@ -172,9 +172,9 @@ export default function HomePage() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
-      <Separator />
+      {/* <Separator /> */}
 
       {/* Blog Section */}
       <section className="container py-24">
@@ -183,8 +183,8 @@ export default function HomePage() {
             Latest Blog Posts
           </h2>
           <div className="space-y-8">
-            {blogPosts.map((post, index) => (
-              <div key={index}>
+            {blogPosts.slice(0, 3).map((post, index) => (
+              <div key={index} className="flex flex-col gap-6">
                 <article key={index} className="group">
                   <div className="space-y-3">
                     <div className="flex items-center gap-2 text-sm text-muted-foreground">
@@ -198,9 +198,11 @@ export default function HomePage() {
                       {post.contentMarkdown.substring(0, 100)}
                     </p>
                     <div className="flex gap-2">
-                      <Badge variant="secondary">Node.js</Badge>
-                      <Badge variant="secondary">API Design</Badge>
-                      <Badge variant="secondary">Performance</Badge>
+                      {post.tags.map((tag) => (
+                        <Badge key={tag} variant="secondary">
+                          {tag}
+                        </Badge>
+                      ))}
                     </div>
                   </div>
                 </article>

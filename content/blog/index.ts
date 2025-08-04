@@ -6,7 +6,7 @@ import { goodbyeGoogle } from "./posts/goodbyeGoogle";
 import { firstBlogPost } from "./posts/firstBlogPost";
 import { talesOfACeo } from "./posts/talesOfACeo";
 
-export const blogPosts: BlogPost[] = [
+const unsortedBlogPosts: BlogPost[] = [
   applyingForGoogle,
   managingATechConference,
   myWorkAtGoogle,
@@ -14,5 +14,12 @@ export const blogPosts: BlogPost[] = [
   firstBlogPost,
   talesOfACeo,
 ];
+
+export const blogPosts: BlogPost[] = [...unsortedBlogPosts].sort((a, b) => {
+  // Try to parse the date as Date objects and sort descending (newest first)
+  const dateA = Date.parse(a.date);
+  const dateB = Date.parse(b.date);
+  return dateB - dateA;
+});
 
 export const blogPostsMap = new Map(blogPosts.map((post) => [post.slug, post]));
