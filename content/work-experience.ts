@@ -16,7 +16,7 @@ export const workExperience: WorkExperience[] = [
     description: "Building custom tailored AI solutions for large enterprises, solving real problems with measurable impact. As a founding engineer my role includes ideating and prototyping for new solutions, leading project teams and making technical decisions spanning multiple domains.",
     date: "Jan 2025 - Present",
     tags: ["AI", "LLMs", "Embeddings", "React", "Node.js", "TypeScript", "Python", "FastAPI", "Azure", "CI/CD", "DevOps"],
-    logo: "/logos/supermodular.png",
+    logo: "/andrelago13.github.io/logos/supermodular.png",
   },
   {
     company: "Task Samurai",
