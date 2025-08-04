@@ -1,7 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",
-  basePath: "/andrelago13.github.io",
   eslint: {
     ignoreDuringBuilds: true,
   },
