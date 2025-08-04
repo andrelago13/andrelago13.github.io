@@ -86,7 +86,10 @@ export default function HomePage() {
           </h2>
           <div className="space-y-8">
             {workExperience.map((entry, index) => (
-              <div key={index} className="relative pl-8 border-l-2 border-muted">
+              <div
+                key={index}
+                className="relative pl-8 border-l-2 border-muted"
+              >
                 <div className="absolute -left-2 top-0 h-4 w-4 rounded-full bg-primary"></div>
                 <div className="space-y-2">
                   <div className="flex items-center gap-2 text-sm text-muted-foreground">
@@ -98,7 +101,9 @@ export default function HomePage() {
                       <h3 className="text-xl font-semibold">{entry.title}</h3>
                       <p className="text-muted-foreground">
                         {entry.companyUrl ? (
-                          <Link href={entry.companyUrl} target="_blank">{entry.company}</Link>
+                          <Link href={entry.companyUrl} target="_blank">
+                            {entry.company}
+                          </Link>
                         ) : (
                           entry.company
                         )}
@@ -114,9 +119,7 @@ export default function HomePage() {
                       </div>
                     )}
                   </div>
-                  <p className="text-sm">
-                    {entry.description}
-                  </p>
+                  <p className="text-sm">{entry.description}</p>
                   <div className="flex flex-wrap gap-2 mt-2">
                     {entry.tags?.map((tag) => (
                       <Badge variant="secondary" key={tag}>
@@ -140,33 +143,33 @@ export default function HomePage() {
             Highlighted Projects
           </h2>
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-            {projects.map((project, index) => (<Card key={index}>
-              <CardHeader>
-                <CardTitle className="flex items-center justify-between">
-                  {project.name}
-                  <Button variant="ghost" size="sm" asChild>
-                    <Link href={project.url} target="_blank">
-                      <ExternalLink className="h-4 w-4" />
-                    </Link>
-                  </Button>
-                </CardTitle>
-                <CardDescription>
-                  {project.tagline}
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p className="text-sm text-muted-foreground mb-4">
-                  {project.description}
-                </p>
-                <div className="flex flex-wrap gap-1">
-                  {project.tags?.map((tag) => (
-                    <Badge variant="outline" className="text-xs" key={tag}>
-                      {tag}
-                    </Badge>
-                  ))}
-                </div>
-              </CardContent>
-            </Card>))}
+            {projects.map((project, index) => (
+              <Card key={index}>
+                <CardHeader>
+                  <CardTitle className="flex items-center justify-between">
+                    {project.name}
+                    <Button variant="ghost" size="sm" asChild>
+                      <Link href={project.url} target="_blank">
+                        <ExternalLink className="h-4 w-4" />
+                      </Link>
+                    </Button>
+                  </CardTitle>
+                  <CardDescription>{project.tagline}</CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <p className="text-sm text-muted-foreground mb-4">
+                    {project.description}
+                  </p>
+                  <div className="flex flex-wrap gap-1">
+                    {project.tags?.map((tag) => (
+                      <Badge variant="outline" className="text-xs" key={tag}>
+                        {tag}
+                      </Badge>
+                    ))}
+                  </div>
+                </CardContent>
+              </Card>
+            ))}
           </div>
         </div>
       </section>
@@ -181,30 +184,28 @@ export default function HomePage() {
           </h2>
           <div className="space-y-8">
             {blogPosts.map((post, index) => (
-              <>
-            <article key={index} className="group">
-              <div className="space-y-3">
-                <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                  <Calendar className="h-4 w-4" />
-                  {post.date}
-                </div>
-                <h3 className="text-xl font-semibold group-hover:text-primary transition-colors">
-                  <Link href={`/blog/${post.title.toLowerCase()}`}>
-                    {post.title}
-                  </Link>
-                </h3>
-                <p className="text-muted-foreground">
-                  {post.contentMarkdown.substring(0, 100)}
-                </p>
-                <div className="flex gap-2">
-                  <Badge variant="secondary">Node.js</Badge>
-                  <Badge variant="secondary">API Design</Badge>
-                  <Badge variant="secondary">Performance</Badge>
-                </div>
+              <div key={index}>
+                <article key={index} className="group">
+                  <div className="space-y-3">
+                    <div className="flex items-center gap-2 text-sm text-muted-foreground">
+                      <Calendar className="h-4 w-4" />
+                      {post.date}
+                    </div>
+                    <h3 className="text-xl font-semibold group-hover:text-primary transition-colors">
+                      <Link href={`/blog/${post.slug}`}>{post.title}</Link>
+                    </h3>
+                    <p className="text-muted-foreground">
+                      {post.contentMarkdown.substring(0, 100)}
+                    </p>
+                    <div className="flex gap-2">
+                      <Badge variant="secondary">Node.js</Badge>
+                      <Badge variant="secondary">API Design</Badge>
+                      <Badge variant="secondary">Performance</Badge>
+                    </div>
+                  </div>
+                </article>
+                <Separator />
               </div>
-            </article>
-            <Separator />
-            </>
             ))}
           </div>
         </div>
@@ -224,7 +225,10 @@ export default function HomePage() {
                 </Link>
               </Button>
               <Button variant="ghost" size="sm" asChild>
-                <Link href="https://www.linkedin.com/in/andre-lago/" target="_blank">
+                <Link
+                  href="https://www.linkedin.com/in/andre-lago/"
+                  target="_blank"
+                >
                   <Linkedin className="h-4 w-4" />
                 </Link>
               </Button>

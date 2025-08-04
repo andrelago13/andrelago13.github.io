@@ -14,3 +14,5 @@ export const blogPosts: BlogPost[] = [
   firstBlogPost,
   talesOfACeo,
 ];
+
+export const blogPostsMap = new Map(blogPosts.map((post) => [post.slug, post]));

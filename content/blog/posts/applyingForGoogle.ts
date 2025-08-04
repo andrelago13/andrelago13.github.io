@@ -1,6 +1,7 @@
 import { BlogPost } from "../shared/types";
 
 export const applyingForGoogle: BlogPost = {
+  slug: "applying-for-google",
   title: "Applying for Google",
   date: "November 29, 2016",
   tags: ["Google", "Interview", "Job"],

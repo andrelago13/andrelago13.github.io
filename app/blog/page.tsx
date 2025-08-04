@@ -7,7 +7,7 @@ import { blogPosts } from "@/content/blog"
 
 export default function BlogPage() {
   const posts = blogPosts.map((post) => ({
-    id: post.title.toLowerCase(),
+    slug: post.slug,
     title: post.title,
     excerpt: post.contentMarkdown.substring(0, 100),
     date: post.date,
@@ -60,7 +60,7 @@ export default function BlogPage() {
 
           <div className="space-y-8">
             {posts.map((post, index) => (
-              <div key={post.id}>
+              <div key={post.slug}>
                 <article className="group">
                   <div className="space-y-3">
                     <div className="flex items-center gap-2 text-sm text-muted-foreground">
@@ -68,7 +68,7 @@ export default function BlogPage() {
                       {post.date}
                     </div>
                     <h2 className="text-2xl font-semibold group-hover:text-primary transition-colors">
-                      <Link href={`/blog/${post.id}`}>{post.title}</Link>
+                      <Link href={`/blog/${post.slug}`}>{post.title}</Link>
                     </h2>
                     <p className="text-muted-foreground">{post.excerpt}</p>
                     <div className="flex gap-2">

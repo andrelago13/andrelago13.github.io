@@ -1,7 +1,7 @@
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Separator } from "@/components/ui/separator"
-import { blogPosts } from "@/content/blog"
+import { blogPosts, blogPostsMap } from "@/content/blog"
 import { Calendar, ArrowLeft } from "lucide-react"
 import Link from "next/link"
 import ReactMarkdown from "react-markdown"
@@ -9,12 +9,12 @@ import remarkGfm from "remark-gfm"
 
 // This would typically come from a CMS or markdown files
 const getBlogPost = (slug: string) => {
-  return blogPosts.find((post) => post.title.toLowerCase() === slug.toLowerCase()) || null;
+  return blogPostsMap.get(slug) || null;
 }
 
 // Generate static params for all blog posts
 export function generateStaticParams() {
-  return blogPosts.map((post) => ({ slug: post.title.toLowerCase() }));
+  return blogPosts.map((post) => ({ slug: post.slug }));
 }
 
 export default function BlogPostPage({ params }: { params: { slug: string } }) {
