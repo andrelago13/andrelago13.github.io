@@ -1,5 +1,3 @@
-"use client"
-
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Separator } from "@/components/ui/separator"
@@ -105,9 +103,84 @@ For large lists, implement virtual scrolling to render only visible items.
 Performance optimization is an ongoing process. Profile your app regularly and apply these techniques where they provide the most benefit.
       `,
     },
+    // Legacy blog posts
+    "my-work-at-google": {
+      title: "My Work at Google",
+      date: "March 15, 2023",
+      tags: ["Google", "Career", "Work Experience"],
+      content: `
+# My Work at Google
+
+This is a legacy blog post about my experience working at Google. The content would be loaded from the markdown file in the legacy folder.
+      `,
+    },
+    "tales-of-a-ceo": {
+      title: "Tales of a CEO",
+      date: "February 10, 2023",
+      tags: ["Leadership", "Startup", "CEO"],
+      content: `
+# Tales of a CEO
+
+This is a legacy blog post about my experience as a CEO. The content would be loaded from the markdown file in the legacy folder.
+      `,
+    },
+    "goodbye-google": {
+      title: "Goodbye Google",
+      date: "January 20, 2023",
+      tags: ["Google", "Career", "Transition"],
+      content: `
+# Goodbye Google
+
+This is a legacy blog post about leaving Google. The content would be loaded from the markdown file in the legacy folder.
+      `,
+    },
+    "applying-for-google": {
+      title: "Applying for Google",
+      date: "December 15, 2022",
+      tags: ["Google", "Career", "Interview"],
+      content: `
+# Applying for Google
+
+This is a legacy blog post about the Google application process. The content would be loaded from the markdown file in the legacy folder.
+      `,
+    },
+    "first-blog-post": {
+      title: "First Blog Post",
+      date: "November 1, 2022",
+      tags: ["Blog", "Introduction"],
+      content: `
+# First Blog Post
+
+This is my first blog post. The content would be loaded from the markdown file in the legacy folder.
+      `,
+    },
+    "managing-a-tech-conference": {
+      title: "Managing a Tech Conference",
+      date: "October 15, 2022",
+      tags: ["Conference", "Management", "Tech"],
+      content: `
+# Managing a Tech Conference
+
+This is a legacy blog post about managing a tech conference. The content would be loaded from the markdown file in the legacy folder.
+      `,
+    },
   }
 
   return posts[slug as keyof typeof posts] || null
+}
+
+// Generate static params for all blog posts
+export function generateStaticParams() {
+  return [
+    { slug: "building-scalable-apis" },
+    { slug: "react-performance-optimization" },
+    { slug: "my-work-at-google" },
+    { slug: "tales-of-a-ceo" },
+    { slug: "goodbye-google" },
+    { slug: "applying-for-google" },
+    { slug: "first-blog-post" },
+    { slug: "managing-a-tech-conference" },
+  ]
 }
 
 export default function BlogPostPage({ params }: { params: { slug: string } }) {
