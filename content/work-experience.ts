@@ -22,7 +22,7 @@ export const workExperience: WorkExperience[] = [
     company: "Task Samurai",
     companyUrl: "https://tasksamurai.ai",
     title: "Founder & CEO",
-    description: "I founded Task Samurai to help developers manage the complexity of scattered knowledge and context in large projects. Using AI, embedding models and direct integrations in tools like VSCode and Jira, we developed interfaces where developers could easily find source code and documentation relevant for the tasks they're working on.",
+    description: "I founded Task Samurai to help developers manage the complexity of scattered knowledge and context in large projects. Using AI, embedding models and direct integrations in tools like VSCode and Jira, we developed interfaces where developers could easily find source code and documentation relevant for the tasks they're working on. Task Samurai was aquired by supermodular.ai to help bootstrap its enterprise offer.",
     date: "Jan 2024 - Present",
     tags: ["AI", "Embeddings", "React", "Node.js", "TypeScript", "AWS"],
     logo: "/logos/tasksamurai.png",
