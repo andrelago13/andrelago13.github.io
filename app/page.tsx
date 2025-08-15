@@ -114,7 +114,7 @@ export default function HomePage() {
       <Separator />
 
       {/* Projects Section */}
-      {/* <section id="projects" className="container py-24">
+      <section id="projects" className="container py-24 px-6">
         <div className="mx-auto max-w-5xl">
           <h2 className="text-3xl font-bold tracking-tight mb-12">
             Highlighted Projects
@@ -149,12 +149,12 @@ export default function HomePage() {
             ))}
           </div>
         </div>
-      </section> */}
+      </section>
 
       {/* <Separator /> */}
 
       {/* Blog Section */}
-      <section className="container py-24">
+      <section className="container py-24 px-6">
         <div className="mx-auto max-w-4xl">
           <h2 className="text-3xl font-bold tracking-tight mb-12">
             Latest Blog Posts
