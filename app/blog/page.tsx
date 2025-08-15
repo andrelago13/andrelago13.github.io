@@ -4,6 +4,7 @@ import { Separator } from "@/components/ui/separator"
 import { Calendar, ArrowLeft } from "lucide-react"
 import Link from "next/link"
 import { blogPosts } from "@/content/blog"
+import { Navigation } from "@/components/pages/Navigation"
 
 export default function BlogPage() {
   const posts = blogPosts.map((post) => ({
@@ -17,31 +18,7 @@ export default function BlogPage() {
   return (
     <div className="min-h-screen bg-background">
       {/* Navigation */}
-      <nav className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-        <div className="container flex h-14 items-center">
-          <div className="mr-4 flex">
-            <Link href="/" className="mr-6 flex items-center space-x-2 pl-6">
-              <span className="font-bold">André Lago</span>
-            </Link>
-          </div>
-          <div className="flex flex-1 items-center justify-between space-x-2 md:justify-end">
-            <nav className="flex items-center space-x-6 text-sm font-medium">
-              <Link href="/#about" className="hover:text-foreground/80">
-                About
-              </Link>
-              <Link href="/#career" className="hover:text-foreground/80">
-                Career
-              </Link>
-              <Link href="/#projects" className="hover:text-foreground/80">
-                Projects
-              </Link>
-              <Link href="/blog" className="text-foreground">
-                Blog
-              </Link>
-            </nav>
-          </div>
-        </div>
-      </nav>
+      <Navigation />
 
       <div className="container py-12">
         <div className="mx-auto max-w-4xl">

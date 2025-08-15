@@ -1,3 +1,4 @@
+import { Navigation } from "@/components/pages/Navigation";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import {
@@ -18,31 +19,7 @@ export default function HomePage() {
   return (
     <div className="min-h-screen bg-background justify-items-center items-center">
       {/* Navigation */}
-      <nav className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-        <div className="container flex h-14 items-center">
-          <div className="mr-4 flex">
-            <Link href="/" className="mr-6 flex items-center space-x-2 pl-6">
-              <span className="font-bold">André Lago</span>
-            </Link>
-          </div>
-          <div className="flex flex-1 items-center justify-between space-x-2 md:justify-end">
-            <nav className="flex items-center space-x-6 text-sm font-medium">
-              <Link href="#about" className="hover:text-foreground/80">
-                About
-              </Link>
-              <Link href="#career" className="hover:text-foreground/80">
-                Career
-              </Link>
-              <Link href="#projects" className="hover:text-foreground/80">
-                Projects
-              </Link>
-              <Link href="/blog" className="hover:text-foreground/80">
-                Blog
-              </Link>
-            </nav>
-          </div>
-        </div>
-      </nav>
+      <Navigation />
 
       {/* Hero/About Section */}
       <section id="about" className="container py-24 md:py-32">
@@ -79,7 +56,7 @@ export default function HomePage() {
       <Separator />
 
       {/* Career Timeline */}
-      <section id="career" className="container py-24">
+      <section id="career" className="container py-24 px-6">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-3xl font-bold tracking-tight mb-12">
             Career Journey
