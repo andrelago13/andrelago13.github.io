@@ -20,7 +20,7 @@ export default function BlogPage() {
       {/* Navigation */}
       <Navigation />
 
-      <div className="container py-12">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="mx-auto max-w-4xl">
           <div className="mb-8">
             <Button variant="ghost" asChild className="mb-4">
@@ -29,8 +29,8 @@ export default function BlogPage() {
                 Back to Home
               </Link>
             </Button>
-            <h1 className="text-4xl font-bold tracking-tight">Blog</h1>
-            <p className="mt-4 text-lg text-muted-foreground">
+            <h1 className="text-3xl sm:text-4xl font-bold tracking-tight">Blog</h1>
+            <p className="mt-4 text-base sm:text-lg text-muted-foreground">
               Thoughts on software development, technology, and lessons learned along the way.
             </p>
           </div>
@@ -44,11 +44,11 @@ export default function BlogPage() {
                       <Calendar className="h-4 w-4" />
                       {post.date}
                     </div>
-                    <h2 className="text-2xl font-semibold group-hover:text-primary transition-colors">
+                    <h2 className="text-xl sm:text-2xl font-semibold group-hover:text-primary transition-colors">
                       <Link href={`/blog/${post.slug}`}>{post.title}</Link>
                     </h2>
-                    <p className="text-muted-foreground">{post.excerpt}</p>
-                    <div className="flex gap-2">
+                    <p className="text-muted-foreground text-sm sm:text-base">{post.excerpt}</p>
+                    <div className="flex flex-wrap gap-2">
                       {post.tags.map((tag) => (
                         <Badge key={tag} variant="secondary">
                           {tag}
